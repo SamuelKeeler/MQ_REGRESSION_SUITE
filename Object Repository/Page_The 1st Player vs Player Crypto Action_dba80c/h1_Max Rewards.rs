@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Max Rewards</name>
+   <tag></tag>
+   <elementGuidId>7c160b67-fb13-45ed-a3d5-a0c6628f2748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-a36eb605']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#el-a36eb605 > h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>abeb231e-5fc6-40c7-bacd-4009342642f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Max Rewards</value>
+      <webElementGuid>c3b9d61c-20a7-4e75-a0c8-53bbf1599e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-a36eb605&quot;)/h1[1]</value>
+      <webElementGuid>51dab723-9e32-40fa-9fff-2a9889a989d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-a36eb605']/h1</value>
+      <webElementGuid>0a5672ac-fb7c-49b0-bf9c-4d749ea1bce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[4]/following::h1[1]</value>
+      <webElementGuid>3e5204e8-23e6-4708-8caf-7aef7a1765d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WINNER'])[2]/following::h1[1]</value>
+      <webElementGuid>014e6b40-1e13-4096-9537-4e6f1c923a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Max']/parent::*</value>
+      <webElementGuid>ed9fe003-c3be-4a68-9328-55fc3554b239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/div[2]/div/div/h1</value>
+      <webElementGuid>8e869e64-fc35-47c9-8675-41877c04f03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Max Rewards' or . = 'Max Rewards')]</value>
+      <webElementGuid>a4eef6ef-a3f8-4f40-9e9f-8829d00f4ea6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

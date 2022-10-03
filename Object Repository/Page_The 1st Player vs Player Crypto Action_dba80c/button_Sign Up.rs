@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign Up</name>
+   <tag></tag>
+   <elementGuidId>41b7daa0-e899-4400-942e-8706fcda12a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='el-df3d3853']/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.vce-button.vce-button--style-basic.vce-button--style-basic--border-round.vce-button--style-basic--size-large.vce-button--style-basic--color-b-206-149-46--fff.vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c51afc77-9a59-4e7e-96e5-4e1fb79edd69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      <webElementGuid>eb533eb6-166c-4927-ba14-3621f35ab33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-df3d3853</value>
+      <webElementGuid>3a6454fe-795f-4d47-81f1-eae7b6e3f5b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>7271e67c-6823-45d8-b242-8104384cefab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-df3d3853&quot;)/button[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0&quot;]</value>
+      <webElementGuid>df808141-d42e-458d-ac72-421863df54bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1763a607-7a51-4b80-8662-eb913c0c5420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      <webElementGuid>3af4f367-3e30-4293-9dc8-8127b6eba564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-df3d3853</value>
+      <webElementGuid>68c923a9-1884-41c5-9f44-cf05b031fe20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>6bfef34d-b795-4088-9b15-18919e0a280e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-df3d3853&quot;)/button[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0&quot;]</value>
+      <webElementGuid>c1b0c849-351b-4bdf-9237-d614f02f5b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c31370c-5bdb-425c-9d4a-7f0c71d2bf1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      <webElementGuid>de7ddf38-7ac0-4fa9-a349-636356917a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-df3d3853</value>
+      <webElementGuid>6b689fcc-2c1d-45ee-903d-7638e7a56a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>0c0d7f29-1838-4da8-bb18-452e5495efd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-df3d3853&quot;)/button[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0&quot;]</value>
+      <webElementGuid>4511f432-d8a6-4b6d-a5b4-7710fcd3e7d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>98c759b0-3182-4aa7-850c-b9592f330b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      <webElementGuid>6d633167-2fa9-4461-a689-43354b40148b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-df3d3853</value>
+      <webElementGuid>60f0cdbe-5163-4d23-8da2-73fa84b1be3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>2895dd21-e48b-401b-8eb4-bec985afb392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-df3d3853&quot;)/button[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0&quot;]</value>
+      <webElementGuid>070044eb-cf68-49b9-bf4b-ae7ba81668a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='el-df3d3853']/button</value>
+      <webElementGuid>42e049d2-a616-4a6a-9e1e-dcfc1a9aa20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WINNER'])[2]/following::button[1]</value>
+      <webElementGuid>0e34c9de-a399-47ea-b976-b3891e62da78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rewards'])[1]/preceding::button[1]</value>
+      <webElementGuid>e898ee35-a3ff-4d1f-b7a1-c836541f7655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>191dd9de-b932-452a-af41-140c9385d398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Sign Up' or . = 'Sign Up')]</value>
+      <webElementGuid>f49ffda9-8ed3-49b6-9ee3-ee80339bbfc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Play Now_slick-next slick-arrow</name>
+   <tag></tag>
+   <elementGuidId>4b86fc1a-96f8-4152-a6e5-0d5f8ec47a9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-814ff268']/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.slick-initialized.slick-slider > div.slick-next.slick-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4b3e160-1f4f-48a5-b714-28065df481ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-next slick-arrow</value>
+      <webElementGuid>bdf89058-c708-43fc-8aef-8213027ab5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-814ff268&quot;)/div[@class=&quot;casino-games-list-wrap slider&quot;]/div[@class=&quot;row slick-initialized slick-slider&quot;]/div[@class=&quot;slick-next slick-arrow&quot;]</value>
+      <webElementGuid>2f1d0c06-11d7-4d8d-85c5-94a86b63e3d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-814ff268']/div/div/div[3]</value>
+      <webElementGuid>6ac966ba-4ebe-4254-b2a0-95bb631766ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[3]</value>
+      <webElementGuid>8ff122e7-ecff-41fd-a4a9-4601380bd90e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

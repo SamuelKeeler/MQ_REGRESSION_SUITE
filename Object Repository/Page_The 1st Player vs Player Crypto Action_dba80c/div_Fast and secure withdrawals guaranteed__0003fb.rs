@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fast and secure withdrawals guaranteed__0003fb</name>
+   <tag></tag>
+   <elementGuidId>ea17c836-e3ae-4615-a0b8-c16794b0a3b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-a213e016']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#el-a213e016 > div.vce-col-inner > div.vce-col-content > div.vce-single-image-container.vce-single-image--align-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a0ded4b-31da-4cb3-92d8-7bf44094ce7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-single-image-container vce-single-image--align-left</value>
+      <webElementGuid>7dde33a2-57b3-4bda-b3fb-ab5db5a0af92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-a213e016&quot;)/div[@class=&quot;vce-col-inner&quot;]/div[@class=&quot;vce-col-content&quot;]/div[@class=&quot;vce-single-image-container vce-single-image--align-left&quot;]</value>
+      <webElementGuid>d7b9711b-3d81-49bf-9636-1bf50e0dc6b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8dca6588-17d5-48ca-bbc4-c64a5821b349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-single-image-container vce-single-image--align-left</value>
+      <webElementGuid>19dda0d7-9066-4cca-9331-9cd8564ceca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-a213e016&quot;)/div[@class=&quot;vce-col-inner&quot;]/div[@class=&quot;vce-col-content&quot;]/div[@class=&quot;vce-single-image-container vce-single-image--align-left&quot;]</value>
+      <webElementGuid>f8eebd2f-9a56-4664-91ec-a033d97d0d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>923989bf-de3d-4cc6-8fab-7c99041ccef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-single-image-container vce-single-image--align-left</value>
+      <webElementGuid>f1c994ef-2ae7-4f7e-8f65-4af3438c63ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-a213e016&quot;)/div[@class=&quot;vce-col-inner&quot;]/div[@class=&quot;vce-col-content&quot;]/div[@class=&quot;vce-single-image-container vce-single-image--align-left&quot;]</value>
+      <webElementGuid>acaa1f57-3fe8-4aad-92e8-5da5f217f2eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9879fabe-7bd6-4fb7-8e4e-deead389a935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-single-image-container vce-single-image--align-left</value>
+      <webElementGuid>77b18d74-4ebc-4bf3-9ed8-f2842357844b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-a213e016&quot;)/div[@class=&quot;vce-col-inner&quot;]/div[@class=&quot;vce-col-content&quot;]/div[@class=&quot;vce-single-image-container vce-single-image--align-left&quot;]</value>
+      <webElementGuid>5019fa08-0db2-45aa-a2f4-ede7e69c27e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-a213e016']/div/div[2]/div</value>
+      <webElementGuid>76a3165e-e0ba-48c3-a89e-26df8e220ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast and secure withdrawals guaranteed'])[1]/following::div[28]</value>
+      <webElementGuid>72166062-38f1-46ee-9875-de591e30137d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Turn Coins Into Crypto'])[1]/following::div[31]</value>
+      <webElementGuid>90272e79-52ed-4959-92f5-bec8119ad3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WINNER'])[2]/preceding::div[4]</value>
+      <webElementGuid>dfdb4903-e392-4c0a-97b4-4b49dbd617b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>3b3340ea-ca3a-4623-94a6-5326d98fa368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

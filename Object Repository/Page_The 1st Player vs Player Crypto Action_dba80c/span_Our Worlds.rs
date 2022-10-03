@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Our Worlds</name>
+   <tag></tag>
+   <elementGuidId>5c83f109-3c29-458e-ad3c-179b7af31088</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-79e143a3']/h2/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>18780f32-9453-4644-bfe0-07df3b92f779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our Worlds</value>
+      <webElementGuid>cac1fb87-bdda-40fe-a7f7-e9e7221e03eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-79e143a3&quot;)/h2[1]/span[1]</value>
+      <webElementGuid>955b7c40-812b-428c-b93f-adfdb51ec967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-79e143a3']/h2/span</value>
+      <webElementGuid>990e060e-9ec9-4974-b964-5cb0925f0fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[10]/following::span[1]</value>
+      <webElementGuid>51eb8813-113c-4085-a60e-e89883ca8684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[2]/preceding::span[1]</value>
+      <webElementGuid>1e119af7-958f-4996-ae3f-1ca766910115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose from Slots, Blackjack, Roulette and much more - no purchase required!'])[1]/preceding::span[1]</value>
+      <webElementGuid>3aea0654-c800-475c-bbf6-2800518b6acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Our Worlds']/parent::*</value>
+      <webElementGuid>92e1e73e-e9b0-4d90-9393-f807450426e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span</value>
+      <webElementGuid>a2b9bc7c-3b12-4f99-8973-145692d7d6f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Our Worlds' or . = 'Our Worlds')]</value>
+      <webElementGuid>1f39e2bb-5ac4-410f-8adf-f7fb832ef94f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

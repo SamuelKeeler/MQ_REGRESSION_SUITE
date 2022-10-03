@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Get a boost from a wide range of promoti_ece0a8</name>
+   <tag></tag>
+   <elementGuidId>4799cee0-889d-4cd1-adb5-d33a2dc73915</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-a36eb605']/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#el-a36eb605 > h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>5faba5d6-538d-48c5-b4e4-bd1dab40e03f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get a boost from a wide range of promotions! Choose from tournaments, discounts and giveaways!</value>
+      <webElementGuid>9e281bab-2baf-44a0-8532-2c19bbb38ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-a36eb605&quot;)/h4[1]</value>
+      <webElementGuid>fdd3a5bd-b89f-43b5-9ffb-c8d4f4dd062a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-a36eb605']/h4</value>
+      <webElementGuid>b535b614-aa04-4717-a135-196c18a11c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rewards'])[1]/following::h4[1]</value>
+      <webElementGuid>5d600698-c62c-4d3f-909b-17cae8fa612f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[5]/preceding::h4[1]</value>
+      <webElementGuid>345f7e1a-5d99-4051-9c16-4f37b97c279a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[6]/preceding::h4[1]</value>
+      <webElementGuid>97bd319b-a17d-460a-b290-3bfffb5d552a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get a boost from a wide range of promotions!']/parent::*</value>
+      <webElementGuid>3af90cad-8c96-491d-b2b4-7850e5adb15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/div[2]/div/div/h4</value>
+      <webElementGuid>87596df0-5bbb-4b13-b77e-27f3b406c2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Get a boost from a wide range of promotions! Choose from tournaments, discounts and giveaways!' or . = 'Get a boost from a wide range of promotions! Choose from tournaments, discounts and giveaways!')]</value>
+      <webElementGuid>e478cc5a-85df-4b8e-9dbf-1626a836254b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

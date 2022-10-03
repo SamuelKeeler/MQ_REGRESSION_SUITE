@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Our Worlds_slick-list draggable</name>
+   <tag></tag>
+   <elementGuidId>8f3f7946-4b09-419d-b5d0-a43a4c054118</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-5204baa3']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.explore-worlds-slider.slick-initialized.slick-slider > div.slick-list.draggable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a6887dcf-0044-4365-90aa-d63982c3fe20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>0cd3ec9d-2014-4a13-9c48-e84c4a27afe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>7dac5e63-e29e-45ef-b19a-497662b64f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>503cb5af-4b5c-4a75-b625-8caafef39144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>0f66ab93-a62e-4449-bdf3-10b0d0fab2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>639a4f7a-cdc0-45ea-89a4-959cc0441e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fcd169cc-eb27-43c9-8cb1-a3e4c3d4d8e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>704a4a8c-88fc-4210-be9e-34bcec355f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>4faf653a-59d7-4bc4-9ca4-0406b3d6cf5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f8eb00a-8ea3-4a96-b98f-cd7aee7394ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>ef5e1ce3-9469-47c1-93b1-bec46bcb2dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>49c29b30-4ed6-46df-a32f-82c715373707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c53ed664-37fd-449b-9a55-04c8d1121b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>f2af4051-f7e2-4609-8ebe-23b7bc16f2bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>9f0a9505-b496-4c49-8ef0-9686bf764fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8fe69052-b208-4c78-87e5-0d034ce1d1ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>98978ced-153a-495a-9a1e-54f8a30f1058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>3a011452-1528-44fb-8d95-187414ec4ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d056c1d1-7877-4538-9fa2-be15da7d3df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>6ac9fedb-6e66-401e-8b20-5fe5ba254f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>a8653ddf-d206-479f-9614-7cfa72852163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed1ab174-df88-4558-b391-6a5c05898de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-list draggable</value>
+      <webElementGuid>8357380d-ce5e-48a7-83db-c05bde397339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-5204baa3&quot;)/div[@class=&quot;explore-worlds-slider slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]</value>
+      <webElementGuid>39fa5448-3666-40ba-b3a2-9314fa7c8d2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-5204baa3']/div/div[2]</value>
+      <webElementGuid>772adb32-f104-43c9-b4cc-15fc1cb77dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Worlds'])[1]/following::div[5]</value>
+      <webElementGuid>8b9ae30a-2e73-4e4a-8e0a-296584567b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[2]/preceding::div[21]</value>
+      <webElementGuid>004cabad-3948-4292-8167-0b306a7c51bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose from Slots, Blackjack, Roulette and much more - no purchase required!'])[1]/preceding::div[24]</value>
+      <webElementGuid>55fb9e81-b14a-43c6-bc3b-e290e11dc9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div[2]/div/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>73f8ee94-f445-44b9-bf35-7da460dc87aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
