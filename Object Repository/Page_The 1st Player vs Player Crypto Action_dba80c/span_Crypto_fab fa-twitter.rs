@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Crypto_fab fa-twitter</name>
+   <tag></tag>
+   <elementGuidId>c4bf55cd-4e37-4cff-94c5-f0c6de19d1bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer']/div/div/div/div[2]/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fab.fa-twitter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>277ddd39-5aeb-4edb-a93e-2a9f703ee25a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-twitter</value>
+      <webElementGuid>7aea57c3-f1f2-49dc-b665-5e827cd4f673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-left-block&quot;]/div[@class=&quot;footer-socials&quot;]/ul[1]/li[2]/a[1]/span[@class=&quot;fab fa-twitter&quot;]</value>
+      <webElementGuid>7671358a-0610-4f03-bb5e-b94f436eef7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/div/div/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>704d0492-fc0b-49cf-89ad-2a04b5063c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>87156526-bc0d-42bf-85e8-520cc355bb20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FASTFIRE Navigation Only</description>
+   <name>HomePage_FASTFIRE_Naigation_LI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91212158-2e28-4778-961d-ac5224ca9e3f</testCaseGuid>
+</TestCaseEntity>

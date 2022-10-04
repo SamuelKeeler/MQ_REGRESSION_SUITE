@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2022 MaxQuest. All Rights Reserved</name>
+   <tag></tag>
+   <elementGuidId>0d43e1de-c642-457b-ae29-5fa0f51a02f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer']/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.copyright</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>30d2aa93-2f3c-4a43-89d6-f690d4873536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>copyright</value>
+      <webElementGuid>96cec889-9d27-4d82-981b-1e894c887b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> © 2022 MaxQuest. All Rights Reserved. </value>
+      <webElementGuid>48713e97-8b1e-4c2a-8ad1-d1b92dadc776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-left-block&quot;]/p[@class=&quot;copyright&quot;]</value>
+      <webElementGuid>e5a0b95e-1968-4994-9026-99b292247594</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/div/div/p</value>
+      <webElementGuid>4d173aba-6c97-4a08-a226-0c56c9fe4f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crypto'])[1]/following::p[1]</value>
+      <webElementGuid>4cc98a53-d956-4adc-80d3-79830291c099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::p[1]</value>
+      <webElementGuid>cc8f6c90-3ec4-4ecf-a911-50313b0b7c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('We', &quot;'&quot;, 're Online!')])[1]/preceding::p[1]</value>
+      <webElementGuid>9f737b45-643b-4134-87fa-c7fc1701c25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='© 2022 MaxQuest. All Rights Reserved.']/parent::*</value>
+      <webElementGuid>e3e65fe6-cc11-4556-9421-16d027638a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/p</value>
+      <webElementGuid>bff37c2d-54ab-4098-af2f-7e4f17abdb1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' © 2022 MaxQuest. All Rights Reserved. ' or . = ' © 2022 MaxQuest. All Rights Reserved. ')]</value>
+      <webElementGuid>e94ced55-5b67-4990-8fee-9993b4150de7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

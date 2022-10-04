@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Conversation(s)_win_close sqico-larrow</name>
+   <tag></tag>
+   <elementGuidId>6980ec9c-1795-4bc1-bf93-ba1134d1c01d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.win_close.sqico-larrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49a0678c-b60e-473e-903e-4e449a77fcb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>win_close sqico-larrow</value>
+      <webElementGuid>36c43c5f-58c7-4ade-9b94-5f231508c016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>themeid</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>02dc6a2c-a601-4267-979f-3acc4da8d0e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>documentclick</name>
+      <type>Main</type>
+      <value>min_iframe</value>
+      <webElementGuid>e9a64332-da2e-474e-83fe-326bae73e02e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;windows chrome chrome1 webkit webkitX&quot;]/body[@class=&quot;loadframe&quot;]/div[@class=&quot;win_close sqico-larrow&quot;]</value>
+      <webElementGuid>8a39bcf4-a58d-4d46-849a-6072d9dd9bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_The 1st Player vs Player Crypto Action_dba80c/iframe_concat(id(, , siqiframe, , ))_siqiframe</value>
+      <webElementGuid>c3bf94bc-57ef-4f6d-9837-0d915d7b419b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>0c8e221e-dbc0-4496-89bc-9ef3e6be6e4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

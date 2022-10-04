@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Join the MaxQuest Community</name>
+   <tag></tag>
+   <elementGuidId>0f2c78b7-247d-4e5a-bc87-e4872a432c2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-4e63df83']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#el-4e63df83 > h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>7e520ecb-373f-4e7f-973f-6ab8fa5bee01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join the MaxQuest Community</value>
+      <webElementGuid>facbb828-dda4-434e-87ea-40da7692f9f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-4e63df83&quot;)/h1[1]</value>
+      <webElementGuid>820f263e-a2b2-4af4-be07-1e9d20b036ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-4e63df83']/h1</value>
+      <webElementGuid>8932b0e5-542a-493f-baa4-6ff183ebeaf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play With Friends'])[1]/following::h1[1]</value>
+      <webElementGuid>c86005b7-a0cf-4245-b6ab-2e38265834c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join us on Discord and follow us on social media for sneak peaks, free stuff and much more!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b01041b5-9d18-4562-9ca0-9cf39d405af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Join the']/parent::*</value>
+      <webElementGuid>d9264e95-c948-4706-ba04-2e18838cf59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div[2]/div/div/div[2]/div[3]/div/div/div/div/div[2]/div/div/h1</value>
+      <webElementGuid>9621863c-1f21-4af8-b598-7827203901c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Join the MaxQuest Community' or . = 'Join the MaxQuest Community')]</value>
+      <webElementGuid>03725bdf-f61f-4de9-b253-212beb9f297f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

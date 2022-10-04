@@ -22,6 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
+      <webElementGuid>79f97da3-a475-4288-960c-9c07e1267a37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-google-fonts-heading-inner</value>
+      <webElementGuid>17a9b461-9049-4394-a6a0-e419aa6e6973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Casino</value>
+      <webElementGuid>41b7bf58-2d48-48c7-9bb3-92510ba7980f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-3976cf1d&quot;)/h1[@class=&quot;vce-google-fonts-heading-inner&quot;]</value>
+      <webElementGuid>77b75db1-9f01-45e4-bf0c-5fea77e8c8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>42918b0c-f17d-4331-9e74-35b5c8f94c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-google-fonts-heading-inner</value>
+      <webElementGuid>c065ec36-9636-453e-91fc-677880c6d040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Casino</value>
+      <webElementGuid>6dcf28e5-fc41-4034-a5e2-fa4029049053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-3976cf1d&quot;)/h1[@class=&quot;vce-google-fonts-heading-inner&quot;]</value>
+      <webElementGuid>38484667-daf5-4f8c-93f5-4402bd845bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
       <webElementGuid>73b8960e-c504-42cd-ab74-5080a4a77efc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +97,7 @@
       <webElementGuid>5cab1170-c770-485f-9750-f547cb03ec6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='el-3976cf1d']/h1</value>
-      <webElementGuid>7c87ebc1-faa7-43e3-ab81-082a620dc7fa</webElementGuid>
+      <webElementGuid>b6f1e199-079f-4b60-95f5-b09a68a25415</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Worlds'])[1]/following::h1[1]</value>
-      <webElementGuid>8847d0e6-d539-45bf-a397-88b5cd0bc15f</webElementGuid>
+      <webElementGuid>90f2a0c8-6039-40bd-8ea1-f462d9ce2161</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose from Slots, Blackjack, Roulette and much more - no purchase required!'])[1]/preceding::h1[1]</value>
-      <webElementGuid>097ce35c-5bb9-4e37-8148-c090af244db6</webElementGuid>
+      <webElementGuid>e53cf361-3a6d-4df0-88d6-511fc1ebe415</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot Games'])[1]/preceding::h1[1]</value>
-      <webElementGuid>0fb5f95e-789c-40c0-8246-f7d0774ec0aa</webElementGuid>
+      <webElementGuid>9064272e-adcb-4e22-9ac1-92903d754b7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div/h1</value>
-      <webElementGuid>45d9b552-0787-456f-8012-3be4df2b8360</webElementGuid>
+      <webElementGuid>09dc138c-7894-47a9-90e0-82cfee9a11f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = 'Casino' or . = 'Casino')]</value>
-      <webElementGuid>342fb65d-ceaa-4842-9db8-5f0c87004b36</webElementGuid>
+      <webElementGuid>f2e491bd-7517-4738-8ccc-8b830c762773</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

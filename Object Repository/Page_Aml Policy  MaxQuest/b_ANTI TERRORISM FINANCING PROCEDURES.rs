@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_ANTI TERRORISM FINANCING PROCEDURES</name>
+   <tag></tag>
+   <elementGuidId>1f1e705c-8d88-4f3e-8a14-c9e19da1c92f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-8c78de3e']/h1/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1 > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>8d68d7ac-c2d3-474f-bcf3-c8609c1e7a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&amp; ANTI TERRORISM FINANCING PROCEDURES</value>
+      <webElementGuid>9fccf7fb-46c1-482b-b5a8-61df897c0562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-8c78de3e&quot;)/h1[1]/b[1]</value>
+      <webElementGuid>bc3cf132-aff4-4bd9-826d-a1e155743598</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-8c78de3e']/h1/b</value>
+      <webElementGuid>ec2766d2-4de5-4144-a712-0867137903a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANTI-MONEY LAUNDERING'])[1]/following::b[1]</value>
+      <webElementGuid>60ee6140-d0d6-4e14-9e3f-d2f52f117700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aml Policy'])[1]/following::b[2]</value>
+      <webElementGuid>d088e99e-81d9-4c36-8036-9ae5f270dd25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.maxquest.com'])[1]/preceding::b[1]</value>
+      <webElementGuid>78c3f262-2838-44d1-a59a-fc30cfffdc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&amp; ANTI TERRORISM FINANCING PROCEDURES']/parent::*</value>
+      <webElementGuid>d1c86b0a-9d34-4738-997e-a3d3aa065ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/b</value>
+      <webElementGuid>5d812237-4755-4a3b-8ead-70b380c01690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '&amp; ANTI TERRORISM FINANCING PROCEDURES' or . = '&amp; ANTI TERRORISM FINANCING PROCEDURES')]</value>
+      <webElementGuid>8fad0c18-fb93-4ceb-879f-ca5b0adae0e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

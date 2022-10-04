@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Only allow essential cookies</name>
+   <tag></tag>
+   <elementGuidId>e6bc0bc6-4d6d-46ab-a29a-3b1ec96c10b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_Qv']/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._a9--._a9_1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d6dbc551-fa5b-42f0-9cf7-cb11539a62a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_a9-- _a9_1</value>
+      <webElementGuid>76003b1c-296d-45de-9a0d-da86d122f8ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>577d5139-fb9c-4ef8-83a2-d221b4c35af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Only allow essential cookies</value>
+      <webElementGuid>2cb252fb-0b0b-42a4-9bfc-541eb632c08d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Qv&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[2]/div[1]/div[@class=&quot;x1uhb9sk&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x78zum5 xdt5ytf xg6iff7 x1n2onr6&quot;]/div[@class=&quot;x1uvtmcs x4k7w5x x1h91t0o x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1n2onr6 x1qrby5j x1jfb8zj&quot;]/div[@class=&quot;x1qjc9v5 x9f619 x78zum5 xdt5ytf x1iyjqo2 xl56j7k&quot;]/div[@class=&quot;x1cy8zhl x9f619 x78zum5 xl56j7k x2lwn1j xeuugli x47corl&quot;]/div[@class=&quot;x1ja2u2z x1afcbsf x1a2a7pz x6ikm8r x10wlt62 x71s49j x78zum5 xdt5ytf x1n2onr6 xl56j7k x6s0dn4&quot;]/div[@class=&quot;xs83m0k xl56j7k x1sy10c2 x1h5jrl4 xieb3on xmn8rco x1iy3rx x1n2onr6 xo1d8dh x1m7g9aj x19osjzx xr2spqc xnfgh3p x61jkv3 x1u827li xsw4t2s x1u6teax xa8ff0x x1crxz2b xodhs97 xir0mxb x1juhsu6 xy2hj3m&quot;]/div[@class=&quot;x7r02ix xf1ldfh x131esax xdajt7p xxfnqb6 xb88tzc xw2csxc x1odjw0f x5fp0pe x5yr21d x19onx9a&quot;]/div[1]/button[@class=&quot;_a9-- _a9_1&quot;]</value>
+      <webElementGuid>bb50efe0-1230-4674-8bfe-589076515e06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Qv']/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>20495989-2239-4e05-8828-eac72d70ea41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Controlling cookies with browser settings'])[1]/following::button[1]</value>
+      <webElementGuid>0c326434-b778-4066-b840-8586e6af8886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More information about online advertising'])[1]/following::button[2]</value>
+      <webElementGuid>76327403-43a0-4d28-a640-76f0a0eed79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow essential and optional cookies'])[1]/preceding::button[1]</value>
+      <webElementGuid>a0034422-cb14-4671-8c09-a5dd2b01448a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Only allow essential cookies']/parent::*</value>
+      <webElementGuid>56ca66cf-b6c6-475d-9c8c-a4cfd54bd5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>3caddc34-9384-454b-8874-8face025edfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Only allow essential cookies' or . = 'Only allow essential cookies')]</value>
+      <webElementGuid>dbbfb3a4-8bf4-4ffa-9595-9587814eae8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

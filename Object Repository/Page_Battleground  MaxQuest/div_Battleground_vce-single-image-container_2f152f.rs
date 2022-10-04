@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Battleground_vce-single-image-container_2f152f</name>
+   <tag></tag>
+   <elementGuidId>c02ee1bd-ac14-4545-86c6-984022c5d68d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-faf10bf0']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vce-single-image-container.vce-single-image--align-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26d42810-4825-417b-b987-00e9e985a436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-single-image-container vce-single-image--align-left</value>
+      <webElementGuid>c709a0ff-a672-4424-a819-6b8a0cbc7b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-faf10bf0&quot;)/div[@class=&quot;vce-col-inner&quot;]/div[@class=&quot;vce-col-content&quot;]/div[@class=&quot;vce-single-image-container vce-single-image--align-left&quot;]</value>
+      <webElementGuid>59211be9-a112-4a63-8e40-d8dab54e90f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-faf10bf0']/div/div[2]/div</value>
+      <webElementGuid>32547c8d-770b-467c-8e45-217d0d95d81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Battleground'])[2]/following::div[25]</value>
+      <webElementGuid>cacb3476-d572-47de-a33b-8a1bd7ef5e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/following::div[30]</value>
+      <webElementGuid>bac744a0-6427-4c28-bdac-d8541898b5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WINNER'])[1]/preceding::div[4]</value>
+      <webElementGuid>0821d542-137b-4213-91e4-0634ff3028af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>899041a3-f578-44a5-9f68-610318e903f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

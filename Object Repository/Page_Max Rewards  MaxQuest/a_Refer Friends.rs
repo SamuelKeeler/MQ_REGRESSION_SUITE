@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Refer Friends</name>
+   <tag></tag>
+   <elementGuidId>f80333fd-d6e0-4d4b-9435-05e4ca75e1de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-1889']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-1889 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cc6345ec-7367-4416-8575-f8972e31fffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/refer-friends/</value>
+      <webElementGuid>12a3a63b-5d6a-4751-97ae-7b4bc6013a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Refer Friends</value>
+      <webElementGuid>7c7ad6d8-9721-42b5-ac9f-cb6a94b53050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-1889&quot;)/a[1]</value>
+      <webElementGuid>277bfc51-48c5-421a-9c9d-e307cfecd600</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-1889']/a</value>
+      <webElementGuid>eb65d608-bd68-4189-8abe-a2585d26891b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Refer Friends')]</value>
+      <webElementGuid>ec7915cb-35ed-41ea-9f16-37ab2586055a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Max Rewards'])[1]/following::a[1]</value>
+      <webElementGuid>90c3eba4-7b86-4898-961b-e3eaa4f4e5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Triple Max Blast'])[1]/following::a[2]</value>
+      <webElementGuid>772d6be2-10cf-4c60-a111-ce928b353506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[1]/preceding::a[1]</value>
+      <webElementGuid>28f8ec7a-6910-4775-9a6b-342566721b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome back!'])[1]/preceding::a[2]</value>
+      <webElementGuid>dda6545c-6ae5-45ab-a1f7-b33a81005120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Refer Friends']/parent::*</value>
+      <webElementGuid>7702acf8-343c-4007-a4f8-594f50799a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/refer-friends/')]</value>
+      <webElementGuid>62a51f42-b72f-492b-af2d-d05b96b8c710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/ul/li[5]/a</value>
+      <webElementGuid>ef695b2d-6773-4809-adc1-ee24230bd8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/refer-friends/' and (text() = 'Refer Friends' or . = 'Refer Friends')]</value>
+      <webElementGuid>7823a10b-63fc-43cc-8e72-2df766aadfa2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

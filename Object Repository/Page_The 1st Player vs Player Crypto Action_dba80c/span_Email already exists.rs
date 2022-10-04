@@ -22,6 +22,134 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>e0842c89-48ee-4daa-9979-b472f246f27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message</value>
+      <webElementGuid>5a8fd1b1-9cf1-4471-af2c-576f9d84003d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email already exists</value>
+      <webElementGuid>c5bd1424-afda-4b4c-851e-f39bc281dd04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/span[@class=&quot;error-message&quot;]</value>
+      <webElementGuid>3990c7ce-d268-4756-b20e-45dafebfa6b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e3f275f3-5ed7-4156-9bd1-12ae87b2c27c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message</value>
+      <webElementGuid>e44a0572-135b-4ef0-8e22-acec16c45356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email already exists</value>
+      <webElementGuid>15db2e7b-0a3b-4ab6-b241-f0c1c7ae6da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/span[@class=&quot;error-message&quot;]</value>
+      <webElementGuid>3049cda9-a0a6-423f-9bcf-a4c930ea19bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>168a2c0a-08f5-411e-8f43-dc8c4c09426f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message</value>
+      <webElementGuid>4bc65c8a-ccfd-4f10-b39c-df6906d0853b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email already exists</value>
+      <webElementGuid>fd1d9f24-efb2-4b3f-94f5-149e4cd5ae7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/span[@class=&quot;error-message&quot;]</value>
+      <webElementGuid>15d5346f-bd59-4a7f-ae9f-38ff79337634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af613104-97d5-463b-a3cb-34c3a9c67920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error-message</value>
+      <webElementGuid>cbebe5e5-fd44-4bde-a523-54ebc9ada0a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email already exists</value>
+      <webElementGuid>cb78d2eb-d203-45f1-825c-cf6bcd78718d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/span[@class=&quot;error-message&quot;]</value>
+      <webElementGuid>bd25279b-ce2c-4892-9d56-57bf3cb6306e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>338857ec-f211-437b-b977-6d5d30d41e2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +161,7 @@
       <webElementGuid>f244f000-a3b2-4b35-99c3-ab656e67678e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -86,7 +214,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalRegister']/div/div/div[2]/form/div/span</value>
-      <webElementGuid>f5fe81b0-0009-4ef7-8333-34c6f6accdce</webElementGuid>
+      <webElementGuid>67dc39ef-8ae4-401a-a943-a30877910e27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start your journey'])[1]/following::span[1]</value>
-      <webElementGuid>98651477-5665-4f65-8b95-1d2e13e1bfef</webElementGuid>
+      <webElementGuid>c794e815-2089-4992-921a-62c0c392e111</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::span[2]</value>
-      <webElementGuid>95c6b77d-e2fe-4823-831c-948da2f5978e</webElementGuid>
+      <webElementGuid>f8d87348-8c6c-45a8-ab28-8d176d2b4e7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username is not valid.'])[1]/preceding::span[1]</value>
-      <webElementGuid>7efd2e59-d2ec-4fae-b402-d156b6492ccf</webElementGuid>
+      <webElementGuid>608d28f7-b3dd-4e22-a61e-8fdc9e7bc815</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please use 6-16 characters, including at least 1 number, 1 letter and 1 special character -!@$^&amp;*'])[1]/preceding::span[2]</value>
-      <webElementGuid>0e5e3e08-57f4-4d45-b681-9dd9787c8e13</webElementGuid>
+      <webElementGuid>a5006ab8-7b20-4135-89bd-edeb4fabddcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +254,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Email already exists']/parent::*</value>
-      <webElementGuid>854cfbe3-fa40-4a17-9e15-b9aa9f68ebc0</webElementGuid>
+      <webElementGuid>97a7ee1b-46be-4346-a1d4-9848297c8827</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +262,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/span</value>
-      <webElementGuid>2b7b85bf-935b-4fdc-891b-e87a246f46eb</webElementGuid>
+      <webElementGuid>959faf9a-36c1-452d-87f1-41d97b13c0c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +270,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Email already exists' or . = 'Email already exists')]</value>
-      <webElementGuid>283d0c74-61d4-43a8-a318-d41b275c1a13</webElementGuid>
+      <webElementGuid>c6c30a55-5f20-48a4-9f86-6d8d1f1fc01f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

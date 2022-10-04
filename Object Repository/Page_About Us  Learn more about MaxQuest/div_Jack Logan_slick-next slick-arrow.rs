@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jack Logan_slick-next slick-arrow</name>
+   <tag></tag>
+   <elementGuidId>6be811bc-0b5f-4ade-8c14-0a117fdc7a9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-695bec5c']/section/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.slick-next.slick-arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a1cff4a-efe8-43d3-a04c-c6de7b0261c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-next slick-arrow</value>
+      <webElementGuid>1e72ea00-554b-4a17-8919-5317154d1d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-695bec5c&quot;)/section[@class=&quot;mobile-pillars&quot;]/div[@class=&quot;pillars-carousel slick-initialized slick-slider&quot;]/div[@class=&quot;slick-next slick-arrow&quot;]</value>
+      <webElementGuid>564ce474-7fe6-4d13-9a93-fabc6f7ba12d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-695bec5c']/section/div/div[3]</value>
+      <webElementGuid>aa46a8de-3ab7-4c21-b161-8f13613aeed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[3]</value>
+      <webElementGuid>66550c4a-f252-4e77-bbbe-bf5096ba51db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

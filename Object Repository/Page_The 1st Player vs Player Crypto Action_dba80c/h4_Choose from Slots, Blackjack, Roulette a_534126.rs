@@ -22,10 +22,34 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>05f66e41-e640-40aa-a1ee-ce1b80b24213</webElementGuid>
+      <webElementGuid>61fd486f-5d03-45bd-b0d5-e2f54b63bb9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose from Slots, Blackjack, Roulette and much more - no purchase required!</value>
+      <webElementGuid>a195d716-a006-427a-8839-14ff678bd729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-0e8a5add&quot;)/h4[1]</value>
+      <webElementGuid>68a63fb1-a1ca-4014-942b-d7e2ecd94ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>05f66e41-e640-40aa-a1ee-ce1b80b24213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='el-0e8a5add']/h4</value>
-      <webElementGuid>a9a045a4-7de9-46fc-8848-75d0c04c6fb4</webElementGuid>
+      <webElementGuid>ae7511a0-eac8-4417-b820-406f6b6bc9d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[2]/following::h4[1]</value>
-      <webElementGuid>67d89582-3187-4fcf-9843-d119b32100e6</webElementGuid>
+      <webElementGuid>d8dd08ef-9bb2-4460-8a8b-b5b6ffa75344</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Worlds'])[1]/following::h4[1]</value>
-      <webElementGuid>f9a296e3-900d-4f7f-90cb-3058755ae7bf</webElementGuid>
+      <webElementGuid>1f4103fd-f182-4dd3-be26-bd3ce41f8dec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot Games'])[1]/preceding::h4[1]</value>
-      <webElementGuid>d8a21e29-6e12-445c-b47e-ea82dbd82b0a</webElementGuid>
+      <webElementGuid>279ad100-e606-46b4-993b-ce5a11115143</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[5]/preceding::h4[1]</value>
-      <webElementGuid>e4e63842-012f-41b1-9f7d-c0f8e918913e</webElementGuid>
+      <webElementGuid>c3ede7b4-82e2-4266-bab9-be7b6ad82a23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Choose from Slots, Blackjack, Roulette and much more - no purchase required!']/parent::*</value>
-      <webElementGuid>b0cfd3a6-0a3d-41ed-af6c-650f91bacbae</webElementGuid>
+      <webElementGuid>675d09b2-5562-48c1-8cdd-e93c0e62edd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div[2]/div/div/div/div[2]/div/h4</value>
-      <webElementGuid>8854d43d-7183-4c12-9998-a274435a37b8</webElementGuid>
+      <webElementGuid>65cefaf4-c61e-4284-8481-67a11e63088c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'Choose from Slots, Blackjack, Roulette and much more - no purchase required!' or . = 'Choose from Slots, Blackjack, Roulette and much more - no purchase required!')]</value>
-      <webElementGuid>dfa3263d-803e-42fa-b7ac-49ffa77ab91e</webElementGuid>
+      <webElementGuid>2aa34ec2-7469-467b-87f7-779364ed02a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

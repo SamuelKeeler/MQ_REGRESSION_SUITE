@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
+      <webElementGuid>66f8a7d8-b646-44aa-9a27-84a50b5aed6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title</value>
+      <webElementGuid>9e56e178-bccf-4527-8589-beb5299a0d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start your journey</value>
+      <webElementGuid>db51bd69-328f-4e1e-8812-0749e587a34e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/h4[@class=&quot;modal-title&quot;]</value>
+      <webElementGuid>1eb6b740-0b12-45e4-9a64-80b5a421f0b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
       <webElementGuid>90fc057a-fc4d-4150-a5df-fdb807cff6f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>bf879b33-f705-402d-a698-6cb172996887</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -182,7 +214,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalRegister']/div/div/div/h4</value>
-      <webElementGuid>360826b0-5f08-4dc8-817c-24e11bcde7f4</webElementGuid>
+      <webElementGuid>5b7ff3ea-084b-42c1-982b-0849e490d79e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::h4[1]</value>
-      <webElementGuid>68e5736b-52d2-40ec-81d9-57bd33e3dd56</webElementGuid>
+      <webElementGuid>48802665-987f-4759-8726-d5445f7562a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='It looks like this Email address is already registered at MaxQuest.'])[1]/preceding::h4[1]</value>
-      <webElementGuid>3755206f-f7ea-4e6a-b745-0e2229a75900</webElementGuid>
+      <webElementGuid>3df88e93-e89d-4a83-952d-417ba97942da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username is not valid.'])[1]/preceding::h4[1]</value>
-      <webElementGuid>0b93b2e7-331e-47df-bf80-f0465ad33410</webElementGuid>
+      <webElementGuid>7a20e5f4-468b-4124-9348-eaf646ab1d4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Start your journey']/parent::*</value>
-      <webElementGuid>b1726a4c-36b6-4758-aea6-ecd065de7da6</webElementGuid>
+      <webElementGuid>c11cc2d1-a29c-484f-8b5b-2b2bc9cba291</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +254,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/h4</value>
-      <webElementGuid>e968d965-4080-4e44-a33e-c572428eba8f</webElementGuid>
+      <webElementGuid>7ac7cba7-3de2-48d4-b91e-0eab5be6ab93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,6 +262,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'Start your journey' or . = 'Start your journey')]</value>
-      <webElementGuid>297447ce-a4a3-4a58-b6e6-0d36cd68c108</webElementGuid>
+      <webElementGuid>c16a1dd3-55e1-42e2-9858-f6cf42b0f9f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

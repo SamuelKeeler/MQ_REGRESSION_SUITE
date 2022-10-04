@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_maxquest.com</name>
+   <tag></tag>
+   <elementGuidId>67c53b74-6b9b-4b0e-a3e8-000c1d1a7cef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_Qv']/div/div/div/div/div/div/div/div/section/main/div/header/section/div[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._aacl._aacp._aacw._aacz._aada._aade</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37a35c86-a327-4bc7-83fe-eb71e8efb9e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_aacl _aacp _aacw _aacz _aada _aade</value>
+      <webElementGuid>fcf72170-d2e8-469a-9db1-fc88f9ad2e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>maxquest.com</value>
+      <webElementGuid>0248f733-49c3-450f-b86a-431eff17f649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Qv&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[@class=&quot;x1ja2u2z x1n2onr6 xdt5ytf x78zum5&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1n2onr6 xat3117 xxzkxad&quot;]/div[@class=&quot;x78zum5 xdt5ytf x10cihs4 x1t2pt76 x1n2onr6 x1ja2u2z&quot;]/section[@class=&quot;_a997 _a998&quot;]/main[@class=&quot;_a993 _a995&quot;]/div[@class=&quot;_aa_y _aa_z&quot;]/header[@class=&quot;_aa_h&quot;]/section[@class=&quot;_aa_l&quot;]/div[@class=&quot;_aa_c&quot;]/a[1]/div[@class=&quot;_aacl _aacp _aacw _aacz _aada _aade&quot;]</value>
+      <webElementGuid>9a54ca16-48c8-45a2-8787-ba0e68c277f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Qv']/div/div/div/div/div/div/div/div/section/main/div/header/section/div[3]/a/div</value>
+      <webElementGuid>b956c731-6c68-44d7-b594-166a666e8878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#1'])[1]/following::div[1]</value>
+      <webElementGuid>8b33b1aa-71a7-4872-a2dd-c6f208e9b80b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video game'])[1]/following::div[2]</value>
+      <webElementGuid>27ac4061-9300-483a-8307-e49abe67cade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posts'])[1]/preceding::div[1]</value>
+      <webElementGuid>aef5ee2f-d084-447e-9f74-ea75b5319db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reels'])[1]/preceding::div[2]</value>
+      <webElementGuid>7a22433e-1ada-4037-90d4-d22bb472627d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='maxquest.com']/parent::*</value>
+      <webElementGuid>a320897a-5268-4874-89bb-dc381a4378f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>990d3c2b-7514-4138-aa19-95026e07e9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'maxquest.com' or . = 'maxquest.com')]</value>
+      <webElementGuid>98a9ed36-f908-4fc4-a5c1-5500661ea5b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

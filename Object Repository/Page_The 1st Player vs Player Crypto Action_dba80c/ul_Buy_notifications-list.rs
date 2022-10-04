@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Buy_notifications-list</name>
+   <tag></tag>
+   <elementGuidId>54f781d7-3470-477c-b624-9eca03b46312</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/nav/div/div/div[2]/div/div[3]/div/div[2]/div/ul/li/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.notifications-list</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>1341c64c-af0a-4223-9ecb-da90428e7e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notifications-list</value>
+      <webElementGuid>93d7699e-397b-4804-94b4-330ee55fbadb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;navbar fixed&quot;]/div[@class=&quot;header-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;user-menu-section-wrapper&quot;]/div[@class=&quot;user-menu-section&quot;]/div[@class=&quot;buy-dropdown-wrapper&quot;]/div[@class=&quot;buy-dropdown-wrapper-inside&quot;]/div[@class=&quot;login-wrap&quot;]/div[@class=&quot;dropdown notification-wrap open&quot;]/ul[@class=&quot;dropdown-menu notifications&quot;]/li[1]/ul[@class=&quot;notifications-list&quot;]</value>
+      <webElementGuid>ce5c942f-3631-40a4-ac57-073de40046b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/nav/div/div/div[2]/div/div[3]/div/div[2]/div/ul/li/ul</value>
+      <webElementGuid>24ab56e2-ff53-4f9a-96a6-7595938502dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[2]/following::ul[2]</value>
+      <webElementGuid>282929d6-83af-4150-8275-b513310b3007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[1]/following::ul[2]</value>
+      <webElementGuid>dbb68104-c137-4348-a50e-184f2ff1eb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::ul[1]</value>
+      <webElementGuid>219db57a-66d2-41b3-a416-7f5cbddb2d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/preceding::ul[1]</value>
+      <webElementGuid>8bd3d51c-8cca-441e-a9ed-5b263810269e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul</value>
+      <webElementGuid>537c7d24-cd85-47d0-b1c3-1e0a5aa3bc20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_maxquestofficial</name>
+   <tag></tag>
+   <elementGuidId>793f826a-32be-43de-a946-5ebc02ac2c93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/div/div/div/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.tiktok-b7g450-H2ShareTitle.ekmpd5l5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>3a9e56df-c96a-41f6-b479-42e9e5f2447d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-e2e</name>
+      <type>Main</type>
+      <value>user-title</value>
+      <webElementGuid>bb115556-33c9-4946-a936-611f0e2fe941</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tiktok-b7g450-H2ShareTitle ekmpd5l5</value>
+      <webElementGuid>640e1945-b817-414e-aa6d-e850e8a53787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>maxquestofficial  </value>
+      <webElementGuid>74f8f540-02d3-4804-ace4-b0b80ff8b365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;tiktok-ywuvyb-DivBodyContainer e1irlpdw0&quot;]/div[@class=&quot;tiktok-w4ewjk-DivShareLayoutV2 elmjn4l0&quot;]/div[@class=&quot;tiktok-1hfe8ic-DivShareLayoutContentV2 elmjn4l1&quot;]/div[@class=&quot;tiktok-1g04lal-DivShareLayoutHeader-StyledDivShareLayoutHeaderV2 elmjn4l2&quot;]/div[@class=&quot;tiktok-1gk89rh-DivShareInfo ekmpd5l2&quot;]/div[@class=&quot;tiktok-1hdrv89-DivShareTitleContainer ekmpd5l3&quot;]/h2[@class=&quot;tiktok-b7g450-H2ShareTitle ekmpd5l5&quot;]</value>
+      <webElementGuid>236d1f41-d9cb-415c-bf4e-478ebe2f7dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/div/div/div/div[2]/h2</value>
+      <webElementGuid>2f35b443-3ee9-46a5-9b5c-271f873f5232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community Guidelines'])[1]/following::h2[1]</value>
+      <webElementGuid>df62ffaf-6849-4c64-a108-3e4aab512e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MaxQuestOfficial'])[1]/preceding::h2[1]</value>
+      <webElementGuid>03c5fe8e-a1ea-40a4-bd94-d56db0423c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[1]/preceding::h2[1]</value>
+      <webElementGuid>37704465-c51c-408d-b05b-314ab8e3dcad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='maxquestofficial']/parent::*</value>
+      <webElementGuid>17042673-749f-4b95-af28-ef8af4cc88b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>b6f3a96c-ef7e-4d90-816a-f0d7081f9232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'maxquestofficial  ' or . = 'maxquestofficial  ')]</value>
+      <webElementGuid>d7f4a413-c21f-4a21-b057-44ac120f5b8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

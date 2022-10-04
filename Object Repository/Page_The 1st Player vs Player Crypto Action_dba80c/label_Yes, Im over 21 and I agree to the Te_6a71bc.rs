@@ -22,6 +22,166 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
+      <webElementGuid>9f971f3c-540e-4e13-846b-580e5309cfca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>over18</value>
+      <webElementGuid>42936608-c2f4-4325-b61d-4053d4d99c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes, I'm over 21 and I agree to the Terms &amp; Conditions and Privacy Policy.</value>
+      <webElementGuid>fe8f0fcb-3342-4f6b-be61-bf8c86556e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>0bfe9849-eb92-4752-8bbf-d7f96cb44f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bf35bfcc-dbdc-4154-ac14-eb749706d78c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>over18</value>
+      <webElementGuid>53ad0678-d9c0-413b-bac4-d1d2cc2b8868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes, I'm over 21 and I agree to the Terms &amp; Conditions and Privacy Policy.</value>
+      <webElementGuid>d2542ec4-e4ac-459d-aa9a-27a61e964942</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>edd86c46-ba6c-4355-81c5-40dddcd47936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bacd5b6c-d753-48b3-adea-daceaff9ffe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>over18</value>
+      <webElementGuid>b5a0dbe5-2e44-46cf-9fb5-9e11e67bc8f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes, I'm over 21 and I agree to the Terms &amp; Conditions and Privacy Policy.</value>
+      <webElementGuid>de58c568-90c0-4bb5-99e0-c7d6ee9424ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>3fbdfe7a-6318-486e-8ef8-97345507bedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>20f1e116-8354-4f86-bf06-44d95ae98d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>over18</value>
+      <webElementGuid>44343b97-8d40-4fb6-a48d-d54e33d097e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes, I'm over 21 and I agree to the Terms &amp; Conditions and Privacy Policy.</value>
+      <webElementGuid>99157147-7968-40b1-b73c-a9ebf2aa4307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>7d8efde1-ab3b-4064-8d5c-30e4e7ca0304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ec73504a-8760-44e5-aebd-1d2e9f863015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>over18</value>
+      <webElementGuid>42b1040b-59a0-4611-ba70-18f895dd2ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes, I'm over 21 and I agree to the Terms &amp; Conditions and Privacy Policy.</value>
+      <webElementGuid>1050ead6-20fc-4200-b7ed-15955c88636b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/form[1]/div[@class=&quot;checkbox&quot;]/label[1]</value>
+      <webElementGuid>862e6037-6659-4c86-b6fa-7bec09f82542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
       <webElementGuid>3070435e-5424-47d2-abf6-56421096b8e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +193,7 @@
       <webElementGuid>8279d9c3-8d22-4788-998d-894abe68bcce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -118,7 +278,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalRegister']/div/div/div[2]/form/div[4]/label</value>
-      <webElementGuid>fbe49738-bf3c-4ff3-825c-c071185050c9</webElementGuid>
+      <webElementGuid>6f4a12d0-f30e-4894-bbd4-dc5c4f0bc9ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +286,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please use 6-16 characters, including at least 1 number, 1 letter and 1 special character -!@$^&amp;*'])[1]/following::label[1]</value>
-      <webElementGuid>8fbfdd82-0605-45e9-8796-920b7b7e6bea</webElementGuid>
+      <webElementGuid>20f9ef54-d653-4297-ba58-6fe5cc0f813d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +294,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username is not valid.'])[1]/following::label[1]</value>
-      <webElementGuid>9d26268c-7b26-4094-a418-a5dfb12d6327</webElementGuid>
+      <webElementGuid>1cbf613a-f4b0-474e-8f1e-bc602382ed31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +302,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label</value>
-      <webElementGuid>c8bc42ea-ef3a-4f43-ac8d-a4e5a97789cf</webElementGuid>
+      <webElementGuid>b0032c34-3770-490d-b853-7e26cc8089b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +310,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = concat(&quot; Yes, I&quot; , &quot;'&quot; , &quot;m over 21 and I agree to the Terms &amp; Conditions and Privacy Policy.&quot;) or . = concat(&quot; Yes, I&quot; , &quot;'&quot; , &quot;m over 21 and I agree to the Terms &amp; Conditions and Privacy Policy.&quot;))]</value>
-      <webElementGuid>aa6253d8-89b3-42f8-a6a6-adc423ec899e</webElementGuid>
+      <webElementGuid>ed243645-8e34-4b26-a700-ec975492f5c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

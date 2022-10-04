@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Battleground is the multiplayer mode f_ca416b</name>
+   <tag></tag>
+   <elementGuidId>04dab905-3003-4452-9eaa-e7f89cc94735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-1930633c272bc8ad6']/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collapse-1930633c272bc8ad6 > div.panel-body > p > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d53de2ac-c754-4cea-b772-13f57ac99fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sheets-value</name>
+      <type>Main</type>
+      <value>{&quot;1&quot;:2,&quot;2&quot;:&quot;Battleground is the multiplayer mode for all Max Quest games. The games last 90 seconds and are played with 2 to 6 players. If you score the most points then you'll win the entire prize pot. Unlike Fastfire, each Battleground game can only have one winner. &quot;}</value>
+      <webElementGuid>7f57be32-ef8f-4a6d-a427-8b03e72460b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sheets-userformat</name>
+      <type>Main</type>
+      <value>{&quot;2&quot;:7043,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;10&quot;:2,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Arial&quot;}</value>
+      <webElementGuid>2a1c8e55-1ca9-476c-955d-d2b2323552ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Battleground is the multiplayer mode for all MaxQuest worlds. The games last 90 seconds and are played with 2 to 6 players. If you score the most points then you'll win the entire prize pot. Unlike Fastfire, each Battleground game can only have one winner. </value>
+      <webElementGuid>f3795173-42f6-43c4-9bd7-41cd567a282e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-1930633c272bc8ad6&quot;)/div[@class=&quot;panel-body&quot;]/p[1]/span[1]</value>
+      <webElementGuid>33e6be4a-8b8e-4b13-a4f6-4a2c41a9bcc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-1930633c272bc8ad6']/div/p/span</value>
+      <webElementGuid>86b99e24-1e9a-4100-8d0c-2aefff723255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is Battleground?'])[1]/following::span[1]</value>
+      <webElementGuid>ab2f0f94-20ce-46cb-8eba-11ee72e8301e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Battleground'])[2]/following::span[1]</value>
+      <webElementGuid>6428127f-bb1b-41bb-bd9f-5a719e7a820d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I earn Special Weapons in Battleground?'])[1]/preceding::span[1]</value>
+      <webElementGuid>575178c4-9da1-4ff6-9e50-8dc434eaedd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I play Dragonstone Battleground?'])[1]/preceding::span[1]</value>
+      <webElementGuid>d659be0d-536e-4ba4-9ce0-57bb45e06747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div/p/span</value>
+      <webElementGuid>87ccb0dd-c0f5-490b-9a6f-8d61ae91844d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;Battleground is the multiplayer mode for all MaxQuest worlds. The games last 90 seconds and are played with 2 to 6 players. If you score the most points then you&quot; , &quot;'&quot; , &quot;ll win the entire prize pot. Unlike Fastfire, each Battleground game can only have one winner. &quot;) or . = concat(&quot;Battleground is the multiplayer mode for all MaxQuest worlds. The games last 90 seconds and are played with 2 to 6 players. If you score the most points then you&quot; , &quot;'&quot; , &quot;ll win the entire prize pot. Unlike Fastfire, each Battleground game can only have one winner. &quot;))]</value>
+      <webElementGuid>afbb5683-fc83-4157-afcc-5f8d96f2bc0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

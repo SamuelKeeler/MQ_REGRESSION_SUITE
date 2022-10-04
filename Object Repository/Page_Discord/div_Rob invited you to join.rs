@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rob invited you to join</name>
+   <tag></tag>
+   <elementGuidId>cd2dde0e-93f6-4083-88fd-9c1892b1a302</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/div/form/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-md-normal-304U3g</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2910e45d-cca1-4e70-9ed7-d9023a2fbd63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-md-normal-304U3g</value>
+      <webElementGuid>232c0c0b-3600-46f8-8f14-1941f74d8223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text-variant</name>
+      <type>Main</type>
+      <value>text-md/normal</value>
+      <webElementGuid>192dd4ab-3c52-4995-808c-3c47c6c2c6be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>力Rob invited you to join</value>
+      <webElementGuid>b6c210b4-6cf5-48ab-a04d-2e87c17e6524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-mount&quot;)/div[@class=&quot;appDevToolsWrapper-1QxdQf&quot;]/div[@class=&quot;notDevTools-1zkgfK&quot;]/div[@class=&quot;app-3xd6d0&quot;]/div[@class=&quot;characterBackground-1BPOOJ&quot;]/div[@class=&quot;wrapper-1f5byN&quot;]/div[1]/div[1]/form[@class=&quot;authBox-1HR6Ha theme-dark&quot;]/div[@class=&quot;centeringWrapper-dGnJPQ&quot;]/div[@class=&quot;container-2xOgW-&quot;]/div[@class=&quot;text-md-normal-304U3g&quot;]</value>
+      <webElementGuid>2d267f67-b465-4f40-9f8a-166af22aed39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/div/form/div/div/div</value>
+      <webElementGuid>0862538f-fef4-40f3-82dc-20ff6465a164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MaxQuest Community'])[1]/preceding::div[1]</value>
+      <webElementGuid>7fc752c2-d423-414c-8a4a-f8adbf777d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::div[4]</value>
+      <webElementGuid>3f5c9399-ae1a-45a6-9290-d9253b53b9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='力Rob invited you to join']/parent::*</value>
+      <webElementGuid>7bae24ce-8c90-4d96-a4ba-313b8f8ee6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>f8aa1fdd-21c2-471c-9122-15428e4132d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '力Rob invited you to join' or . = '力Rob invited you to join')]</value>
+      <webElementGuid>6f0a6589-a500-4709-b11d-0f6902656d8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

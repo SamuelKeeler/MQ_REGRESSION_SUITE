@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='el-814ff268']/div/div/div[2]/div/div[7]/div/a</value>
+         <value>//span[@id='el-b8aefcf0']/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>#el-b8aefcf0 > a.vce-button.vce-button--style-basic.vce-button--style-basic--border-round.vce-button--style-basic--size-large.vce-button--style-basic--color-b-206-149-46--fff.vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,202 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f1a2d484-7cb4-480e-90f5-20d427c077e6</webElementGuid>
+      <webElementGuid>4393002b-c22c-44d8-a950-b91e6776bfa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      <webElementGuid>fee667c2-f8fb-49a2-89c3-fcd9adf3081f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/fastfire</value>
+      <webElementGuid>189eebf0-388b-48f2-b8c1-bfc74607d74b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-b8aefcf0</value>
+      <webElementGuid>4e31ed5d-66f8-4560-a086-0f5813c18e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Play Now</value>
+      <webElementGuid>eb9dd3ca-adba-44ac-92cb-f3776cbbed01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-b8aefcf0&quot;)/a[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0&quot;]</value>
+      <webElementGuid>c1f1b1a8-69fc-4203-bd82-9227052dd63f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>570959b2-58e8-47ed-9888-0c2f4eb040b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      <webElementGuid>f67a0283-01fb-4994-b497-48a1f51cdf21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/battleground/mission-amazon</value>
+      <webElementGuid>f4caf440-570f-4088-b766-53ca6d86ba3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-7eee26fa</value>
+      <webElementGuid>2829c0ce-fded-49e0-b1f3-3545d58406a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Play Now</value>
+      <webElementGuid>155e1645-abbf-4738-b11b-9772519e4f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-7eee26fa&quot;)/a[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0&quot;]</value>
+      <webElementGuid>c2865e54-91a4-49f9-b809-8ec6499a2468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>24f250fc-88a6-4062-a222-00447035fa16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0</value>
+      <webElementGuid>2756e2e1-d91b-471d-b66d-511d37b5114c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/battleground/dragonstone</value>
+      <webElementGuid>57cd9259-8843-4be6-988d-f4eb94d45d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-313f6a76</value>
+      <webElementGuid>5b4ab0dc-acdc-4e80-b6ad-0b6f8a3dac76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Play Now</value>
+      <webElementGuid>02bf5159-96c9-4572-91c5-b35a1461a587</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-313f6a76&quot;)/a[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff vce-button--style-basic--hover-color-b-255-202-19--b-0-0-0&quot;]</value>
+      <webElementGuid>9e92f851-c288-4558-959c-425e127f459d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3bd727f-1cca-4576-9bae-20a54c876bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>bd4b9e8b-ba3f-4520-9b43-0ad1f0aac4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button yellow sign-up</value>
+      <webElementGuid>2d883592-3ad5-4140-9019-ff8423c35ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9c56804e-9ad2-46ce-98a1-d61a5a80eeec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Play Now</value>
+      <webElementGuid>f61955d0-0007-410b-8725-e664fdaa10ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-814ff268&quot;)/div[@class=&quot;casino-games-list-wrap slider&quot;]/div[@class=&quot;row slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;col-sm-4 col-md-4 col-lg-3 slick-slide slick-active&quot;]/div[@class=&quot;img-wrap&quot;]/a[@class=&quot;button yellow sign-up&quot;]</value>
+      <webElementGuid>656d7392-4482-42b0-ba41-6ba67bfe80e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f1a2d484-7cb4-480e-90f5-20d427c077e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -49,7 +241,7 @@
       <webElementGuid>cc0882ef-e823-403b-9c6c-541e7a3d7963</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -66,6 +258,262 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='el-b8aefcf0']/a</value>
+      <webElementGuid>e2c66ad7-edf5-4f14-84c2-2803df687331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Play Now')])[3]</value>
+      <webElementGuid>3f4a7841-7bc2-4d5e-80cd-1f9d15840845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last time'])[1]/following::a[1]</value>
+      <webElementGuid>7a5a53f5-db07-4f42-b8a4-70971ce3817a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[4]/preceding::a[1]</value>
+      <webElementGuid>bb1dd2dd-6b23-4ad0-a797-c9e996bc84e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/fastfire')])[2]</value>
+      <webElementGuid>1fb03e0b-7071-4fb1-afcb-2a5bbb10853c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/div[2]/div[2]/div/div/div/div/div[2]/div[3]/span/a</value>
+      <webElementGuid>d3fecd77-185f-4f5d-adb5-eab79d9cd072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/fastfire' and (text() = 'Play Now' or . = 'Play Now')]</value>
+      <webElementGuid>95084dcc-bbc2-4e20-b137-81c0791f747c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='el-7eee26fa']/a</value>
+      <webElementGuid>b9ee643f-45e0-43b1-a824-f1e7bbe866c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Play Now')])[2]</value>
+      <webElementGuid>1031fb09-bbdc-4055-b799-1d8d17ba76e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[1]/following::a[1]</value>
+      <webElementGuid>f0f305df-c09e-4daa-9a0f-0cbdb1adc551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='big crypto prizes'])[1]/following::a[2]</value>
+      <webElementGuid>09645642-04e3-4549-bfbd-4f2b7f5e2ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last time'])[1]/preceding::a[1]</value>
+      <webElementGuid>12fdadbe-2944-498a-9f21-4f160bc1a546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/battleground/mission-amazon')]</value>
+      <webElementGuid>de8e70ab-b191-487a-a7ae-2156b944c000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[3]/span/a</value>
+      <webElementGuid>c25fbdb2-c9eb-410b-8244-9ff29b79398b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/battleground/mission-amazon' and (text() = 'Play Now' or . = 'Play Now')]</value>
+      <webElementGuid>756cd419-9f0f-43c4-8d66-08fea8921723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='el-313f6a76']/a</value>
+      <webElementGuid>47aaddbe-8854-45b5-8463-1f78fc5e09f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Play Now')]</value>
+      <webElementGuid>0e45a872-5412-42ee-a88f-f0bb408d8245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='big crypto prizes'])[1]/following::a[1]</value>
+      <webElementGuid>46ead8ee-9548-4e2d-89fe-4a013419f75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[2]/preceding::a[1]</value>
+      <webElementGuid>08653249-31f1-4960-a7f7-6c0a87a95b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Play Now']/parent::*</value>
+      <webElementGuid>4d1b4e39-06be-441a-86cf-8cadf554ef9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/battleground/dragonstone')]</value>
+      <webElementGuid>f9ebd7e9-959c-42e3-bd32-db42ec042d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>43ae6826-95c6-4393-80af-2c465da11266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/battleground/dragonstone' and (text() = 'Play Now' or . = 'Play Now')]</value>
+      <webElementGuid>e5364b6f-3ebc-481b-9ae0-ae4486a70cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-814ff268']/div/div/div[2]/div/div[6]/div/a</value>
+      <webElementGuid>f1e6c976-7889-4a37-a0b7-2ed420597f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Play Now')])[10]</value>
+      <webElementGuid>cde1d6b1-8bcd-4800-aa35-ad2cc44b9926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[9]/following::a[1]</value>
+      <webElementGuid>9a02bbb5-5423-410d-a01c-d9aba7ae2f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[8]/following::a[2]</value>
+      <webElementGuid>17e72d57-b9a7-417c-bdce-78c56415ad98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[11]/preceding::a[1]</value>
+      <webElementGuid>e18defa9-b5e1-45f7-8b54-a6acc7086a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[12]/preceding::a[2]</value>
+      <webElementGuid>1833b093-d424-4f11-a105-9dcba6cfc128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[16]</value>
+      <webElementGuid>86e1869b-d1da-488d-bdd4-ed859662300d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a</value>
+      <webElementGuid>5297e59f-d136-4990-a373-454bae2b06d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'Play Now' or . = 'Play Now')]</value>
+      <webElementGuid>44bff832-547a-4185-a526-7c04d4cc7b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -127,13 +575,5 @@
       <type>Main</type>
       <value>//div[7]/div/a</value>
       <webElementGuid>bf238889-0f98-4717-944d-1c49e8c94540</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = 'javascript:void(0);' and (text() = 'Play Now' or . = 'Play Now')]</value>
-      <webElementGuid>601f438b-87ff-4a51-97a6-15752d4aa998</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We use cookies and data toDeliver and m_d68547</name>
+   <tag></tag>
+   <elementGuidId>508de65b-3907-473c-a5ad-5fb4408a7f3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Qhg5gf</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c800baf-3fbc-4832-b2ac-2697926e5576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Qhg5gf</value>
+      <webElementGuid>8b8cb338-102c-4c17-aa5d-3b029c9743f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud and abuseMeasure audience engagement and site statistics to understand how our services are used and enhance the quality of those servicesIf you choose to 'Accept all', we will also use cookies and data toDevelop and improve new servicesDeliver and measure the effectiveness of adsShow personalised content, depending on your settingsShow personalised ads, depending on your settingsIf you choose to 'Reject all', we will not use cookies for these additional purposes.Non-personalised content and ads are influenced by things like the content that you’re currently viewing and your location (ad serving is based on general location). Personalised content and ads can also include things like video recommendations, a customised YouTube homepage and tailored ads based on past activity, like the videos that you watch and the things that you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.</value>
+      <webElementGuid>22aee490-45fe-43b1-ae8f-8470d6059988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;kFwPee&quot;]/div[1]/div[@class=&quot;NIoIEf&quot;]/div[@class=&quot;G4njw&quot;]/div[@class=&quot;Qhg5gf&quot;]</value>
+      <webElementGuid>31664873-3c86-4412-86e8-87c6995130dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>69393304-d7b4-4c71-9a3c-2eb4a058c3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before you continue to YouTube'])[2]/following::div[1]</value>
+      <webElementGuid>5ed026dc-3c4a-4326-9cd8-e6e6c6273ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a Google company'])[1]/following::div[12]</value>
+      <webElementGuid>79b31109-1393-42fd-960a-e3fabc065fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>d864a8bc-fb61-453c-896b-ae2a1dc5c713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud and abuseMeasure audience engagement and site statistics to understand how our services are used and enhance the quality of those servicesIf you choose to &quot; , &quot;'&quot; , &quot;Accept all&quot; , &quot;'&quot; , &quot;, we will also use cookies and data toDevelop and improve new servicesDeliver and measure the effectiveness of adsShow personalised content, depending on your settingsShow personalised ads, depending on your settingsIf you choose to &quot; , &quot;'&quot; , &quot;Reject all&quot; , &quot;'&quot; , &quot;, we will not use cookies for these additional purposes.Non-personalised content and ads are influenced by things like the content that you’re currently viewing and your location (ad serving is based on general location). Personalised content and ads can also include things like video recommendations, a customised YouTube homepage and tailored ads based on past activity, like the videos that you watch and the things that you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.Select &quot; , &quot;'&quot; , &quot;More options&quot; , &quot;'&quot; , &quot; to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.&quot;) or . = concat(&quot;We use cookies and data toDeliver and maintain Google servicesTrack outages and protect against spam, fraud and abuseMeasure audience engagement and site statistics to understand how our services are used and enhance the quality of those servicesIf you choose to &quot; , &quot;'&quot; , &quot;Accept all&quot; , &quot;'&quot; , &quot;, we will also use cookies and data toDevelop and improve new servicesDeliver and measure the effectiveness of adsShow personalised content, depending on your settingsShow personalised ads, depending on your settingsIf you choose to &quot; , &quot;'&quot; , &quot;Reject all&quot; , &quot;'&quot; , &quot;, we will not use cookies for these additional purposes.Non-personalised content and ads are influenced by things like the content that you’re currently viewing and your location (ad serving is based on general location). Personalised content and ads can also include things like video recommendations, a customised YouTube homepage and tailored ads based on past activity, like the videos that you watch and the things that you search for on YouTube. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.Select &quot; , &quot;'&quot; , &quot;More options&quot; , &quot;'&quot; , &quot; to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.&quot;))]</value>
+      <webElementGuid>c0f9c5b9-4e49-4f0e-8e0f-28398465ff7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

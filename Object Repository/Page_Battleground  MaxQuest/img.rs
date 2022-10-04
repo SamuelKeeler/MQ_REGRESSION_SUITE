@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>97196fa7-be66-4916-9561-4aa43f652dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Mission Amazon Logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6a0a3a46-21f0-41cc-b528-f4ae99db15cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/new/mission-amazon/MA-logo-781x92.png</value>
+      <webElementGuid>95bd04ff-9590-405f-a889-4cc13dea7976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Mission Amazon Logo</value>
+      <webElementGuid>9175f285-a937-4c53-9d62-1d3e3dca2aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Mission Amazon Logo</value>
+      <webElementGuid>db169059-25a4-4f7d-a408-899b2fcd6bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-logo-center mq-animation anim-fade-in&quot;]/img[1]</value>
+      <webElementGuid>a4a2662c-ae76-4dda-8ecf-93508630e0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5c87c62e-87bb-4307-84f3-2e77d467ac81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/new/dragonstone/DS-game-logo.png</value>
+      <webElementGuid>d47f0859-4508-4f89-820f-c5edf6d6c2ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dragonstone Game Logo</value>
+      <webElementGuid>32d3c4b9-5f18-4903-9f9b-9b323d458de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Dragonstone Game Logo</value>
+      <webElementGuid>7066bc0d-84dd-4207-ad21-7368501e63de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-logo-center mq-animation anim-fade-in&quot;]/img[1]</value>
+      <webElementGuid>00886eba-833f-41f5-bba6-913ec379a288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3137811c-e3e2-4bb2-8f81-cb000c83a0ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/new/battleground/battleground-logo.png</value>
+      <webElementGuid>9b30b7af-1ce9-4c43-b603-06945209ea55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Battleground logo</value>
+      <webElementGuid>1ce69d13-24b1-419e-9eb5-2725878e3785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Battleground Logo</value>
+      <webElementGuid>c8b1a154-bd1d-4041-97db-d9d42c050ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-logo-bottom mq-animation anim-from-center&quot;]/img[1]</value>
+      <webElementGuid>2866f728-55c8-4e8c-8519-40fb9ea0ab5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div/div/div[2]/img</value>
+      <webElementGuid>8bff1ec6-2db9-42e7-8d4e-de6b3293499f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Mission Amazon Logo']</value>
+      <webElementGuid>b3d9b09d-8e0a-4dc3-a92b-5cc0e89c6155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>b7e08050-c291-4c93-b4cf-802189f467f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/new/mission-amazon/MA-logo-781x92.png' and @alt = 'Mission Amazon Logo' and @title = 'Mission Amazon Logo']</value>
+      <webElementGuid>40ce6252-3a2f-4b22-9b3b-3528c0b39b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Dragonstone Game Logo']</value>
+      <webElementGuid>b1876a43-f8d1-42a6-88dc-69b914c3e2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/new/dragonstone/DS-game-logo.png' and @alt = 'Dragonstone Game Logo' and @title = 'Dragonstone Game Logo']</value>
+      <webElementGuid>cc78d2eb-74fc-4a1f-b17f-4eb4b6646208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Battleground logo']</value>
+      <webElementGuid>00c0652c-d035-4d3a-a258-78c05873a012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/new/battleground/battleground-logo.png' and @alt = 'Battleground logo' and @title = 'Battleground Logo']</value>
+      <webElementGuid>487568dc-87c7-46a9-a54d-3833263a3e88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

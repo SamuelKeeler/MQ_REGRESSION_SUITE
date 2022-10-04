@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_What is Fastfire_fas fa-chevron-down</name>
+   <tag></tag>
+   <elementGuidId>6747d059-a382-4a57-9a88-9d30197f4002</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordionfastfire']/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.accordion-toggle.data-faq-1935 > i.fas.fa-chevron-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>133e34c8-10d8-40bd-b550-507bd3bea7f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-chevron-down</value>
+      <webElementGuid>cc150eb5-cbc3-4357-aae3-f5230b8b76c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordionfastfire&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-heading&quot;]/a[@class=&quot;accordion-toggle data-faq-1935&quot;]/i[@class=&quot;fas fa-chevron-down&quot;]</value>
+      <webElementGuid>8fe8a071-e10b-4cfd-ae92-441217d4559a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordionfastfire']/div/div/a/i</value>
+      <webElementGuid>91242ede-97b2-4ac2-bf13-5a7444f228bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/div/a/i</value>
+      <webElementGuid>db70fbaf-a4a0-4702-b083-5f4546e7d6c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

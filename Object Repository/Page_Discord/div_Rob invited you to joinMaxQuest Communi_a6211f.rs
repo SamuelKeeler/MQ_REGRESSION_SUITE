@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rob invited you to joinMaxQuest Communi_a6211f</name>
+   <tag></tag>
+   <elementGuidId>929c6eea-293f-4cb1-8853-394c3fd8ce55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/div/form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-2xOgW-</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e395fa2-6b2e-40a3-a72a-4959a83ecf33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-2xOgW-</value>
+      <webElementGuid>a8f78f6c-ac59-405a-abfd-446eefdcf1fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>力Rob invited you to joinMaxQuest Community17 Online37 Members</value>
+      <webElementGuid>e9684ab5-ddd9-4a06-9bae-5e177edef119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-mount&quot;)/div[@class=&quot;appDevToolsWrapper-1QxdQf&quot;]/div[@class=&quot;notDevTools-1zkgfK&quot;]/div[@class=&quot;app-3xd6d0&quot;]/div[@class=&quot;characterBackground-1BPOOJ&quot;]/div[@class=&quot;wrapper-1f5byN&quot;]/div[1]/div[1]/form[@class=&quot;authBox-1HR6Ha theme-dark&quot;]/div[@class=&quot;centeringWrapper-dGnJPQ&quot;]/div[@class=&quot;container-2xOgW-&quot;]</value>
+      <webElementGuid>5084a3b3-abb2-4124-b0eb-fe5899976e3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/div/form/div/div</value>
+      <webElementGuid>03e586df-8065-4e45-ba03-66f7ca4055ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>a6764857-2388-4f81-b76f-85955ca1f026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '力Rob invited you to joinMaxQuest Community17 Online37 Members' or . = '力Rob invited you to joinMaxQuest Community17 Online37 Members')]</value>
+      <webElementGuid>54b4bcf9-ec95-4c71-be7d-a519faadf122</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

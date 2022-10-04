@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Chat with us now</name>
+   <tag></tag>
+   <elementGuidId>c7c55f8f-6e14-4f00-9ddd-922ae78560ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='window-ribbon']/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.noaboutme.nologo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>9a1b8cf8-7974-464c-867f-6f3bd09dff2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noaboutme nologo</value>
+      <webElementGuid>0839d452-3edc-45cb-ab00-545d8220285d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>prop</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>a918c0d0-35fb-45d8-afcc-7f3a8dc9950c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chat with us now!</value>
+      <webElementGuid>fddb5181-a52f-4070-a818-1bc41463d010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;window-ribbon&quot;)/header[@class=&quot;noaboutme nologo&quot;]</value>
+      <webElementGuid>086b9882-76e7-40a1-bc30-535d4e164fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_The 1st Player vs Player Crypto Action_dba80c/iframe_concat(id(, , siqiframe, , ))_siqiframe</value>
+      <webElementGuid>1f110801-7dc3-42be-90c2-22dd557f7a4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='window-ribbon']/header</value>
+      <webElementGuid>bfaa8bb0-3ab9-4b8b-9ed3-289ca889d907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'window-ribbon', '&quot;', ')/header[@class=', '&quot;', 'noaboutme nologo', '&quot;', ']')])[1]/following::header[1]</value>
+      <webElementGuid>e742dc4c-45b4-472d-aa12-6ac2e8566327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please wait while we connect you to our support representative.'])[1]/preceding::header[1]</value>
+      <webElementGuid>7d5e9db4-6c35-4436-928b-e3479f4fbe8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>de99a5b0-4d4a-4ca4-9df2-478ec3a8d5ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'Chat with us now!' or . = 'Chat with us now!')]</value>
+      <webElementGuid>48745207-b5fe-4a0f-b8a0-44163e2c4560</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

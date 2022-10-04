@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigation to Dragonstone page ONLY.</description>
+   <name>HomePage_MISSIONAMAZON_Navigation_LI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd8d81e8-d028-4621-815c-1c1cb8464706</testCaseGuid>
+</TestCaseEntity>

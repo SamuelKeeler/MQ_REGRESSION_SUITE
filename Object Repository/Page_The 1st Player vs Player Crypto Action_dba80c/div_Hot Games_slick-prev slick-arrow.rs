@@ -22,6 +22,54 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>1e76fae1-3288-4926-a2bd-d8f6fd86d0e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-prev slick-arrow</value>
+      <webElementGuid>63a77364-f34e-482a-96a0-2004db5b2d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-814ff268&quot;)/div[@class=&quot;casino-games-list-wrap slider&quot;]/div[@class=&quot;row slick-initialized slick-slider&quot;]/div[@class=&quot;slick-prev slick-arrow&quot;]</value>
+      <webElementGuid>79cf3fde-70d5-4fb6-bfaa-9ef7af7d85d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a56185e3-fe45-4883-ae72-7333c5ccd8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slick-prev slick-arrow</value>
+      <webElementGuid>b4f2284b-883c-4fbc-bc45-c8f258b58562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-814ff268&quot;)/div[@class=&quot;casino-games-list-wrap slider&quot;]/div[@class=&quot;row slick-initialized slick-slider&quot;]/div[@class=&quot;slick-prev slick-arrow&quot;]</value>
+      <webElementGuid>9f00778e-1dad-480a-b26d-a22b10e04000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>c249f47d-5b06-4674-aad1-b8c80728f80e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +81,7 @@
       <webElementGuid>9b1eb147-e207-4a55-afe4-50cfbba6877c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='el-814ff268']/div/div/div</value>
-      <webElementGuid>12b3746c-01ad-420b-83dd-18f8cc1de3f0</webElementGuid>
+      <webElementGuid>4b774929-54f8-4a9e-a008-edc626e714f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +102,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[4]/div/div/div/div</value>
-      <webElementGuid>49cc157b-5f9a-4b33-ab5c-7a07b641a412</webElementGuid>
+      <webElementGuid>8185ae35-75d8-4b00-9c72-9b3de898dd1a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

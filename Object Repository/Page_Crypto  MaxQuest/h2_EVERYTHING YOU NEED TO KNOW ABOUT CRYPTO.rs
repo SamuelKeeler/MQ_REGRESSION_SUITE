@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_EVERYTHING YOU NEED TO KNOW ABOUT CRYPTO</name>
+   <tag></tag>
+   <elementGuidId>06a983e1-068d-4d12-aba4-4de88859dab4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-4bdb5b98']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>0d985530-30c7-45b3-b5b7-5a766f9a3772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EVERYTHING YOU NEED TO KNOW ABOUT CRYPTO</value>
+      <webElementGuid>d0e03305-671c-4c0b-93b5-d67214d3b912</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-4bdb5b98&quot;)/h2[1]</value>
+      <webElementGuid>db3a26a9-5e68-48df-97a2-79f903d3960c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4a41bb8f-9ce6-49dd-b770-9c7f3d78fb50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EVERYTHING YOU NEED TO KNOW ABOUT CRYPTO</value>
+      <webElementGuid>42d2b4f4-6247-446e-9e5f-de5cfcc63e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-4bdb5b98&quot;)/h2[1]</value>
+      <webElementGuid>b9295c2d-9c40-47d5-ab93-b4f8f249edc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-4bdb5b98']/h2</value>
+      <webElementGuid>dbb5aeba-b061-45f9-a95d-213df2489d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crypto'])[1]/following::h2[1]</value>
+      <webElementGuid>da351e89-a471-4bba-9d8b-ed511b5b6d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/following::h2[1]</value>
+      <webElementGuid>4990f6b1-2aae-43bb-bedf-6d2823c9ea0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Quick Q&amp;A'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4c1ef065-6c67-442a-8a27-49511075de22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EVERYTHING YOU NEED TO KNOW']/parent::*</value>
+      <webElementGuid>b667de6e-0c9f-4e23-bcd3-f2baed235437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>b4308107-dad3-4b17-83a6-c0ecf5ddfec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'EVERYTHING YOU NEED TO KNOW ABOUT CRYPTO' or . = 'EVERYTHING YOU NEED TO KNOW ABOUT CRYPTO')]</value>
+      <webElementGuid>82867de3-fe1c-4d40-b82c-4496ac7cd7d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

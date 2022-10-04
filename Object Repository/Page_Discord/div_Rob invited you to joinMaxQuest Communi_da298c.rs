@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rob invited you to joinMaxQuest Communi_da298c</name>
+   <tag></tag>
+   <elementGuidId>c71c3e19-d798-487e-958b-e1e6cf3f1dcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-mount']/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wrapper-1f5byN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a505fec-13e5-49b0-b37f-f224738ab0e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wrapper-1f5byN</value>
+      <webElementGuid>5344904f-2823-4349-bd9f-cef3f7f4dec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>力Rob invited you to joinMaxQuest Community17 Online37 MembersUsernameI have read and agree to Discord's Terms of Service and Privacy Policy.ContinueAlready have an account?</value>
+      <webElementGuid>10660ab4-ba6b-4797-be11-23b197f7e34f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-mount&quot;)/div[@class=&quot;appDevToolsWrapper-1QxdQf&quot;]/div[@class=&quot;notDevTools-1zkgfK&quot;]/div[@class=&quot;app-3xd6d0&quot;]/div[@class=&quot;characterBackground-1BPOOJ&quot;]/div[@class=&quot;wrapper-1f5byN&quot;]</value>
+      <webElementGuid>8f93124a-14dd-41f5-af51-9527e0e2ce53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-mount']/div[2]/div/div/div/div</value>
+      <webElementGuid>5297d2a5-740d-4482-9507-d72f51778cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>b19a9d8f-4e67-482d-ac69-7a05c7cf5ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;力Rob invited you to joinMaxQuest Community17 Online37 MembersUsernameI have read and agree to Discord&quot; , &quot;'&quot; , &quot;s Terms of Service and Privacy Policy.ContinueAlready have an account?&quot;) or . = concat(&quot;力Rob invited you to joinMaxQuest Community17 Online37 MembersUsernameI have read and agree to Discord&quot; , &quot;'&quot; , &quot;s Terms of Service and Privacy Policy.ContinueAlready have an account?&quot;))]</value>
+      <webElementGuid>376e0628-0f05-49bc-b898-6f9506742929</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

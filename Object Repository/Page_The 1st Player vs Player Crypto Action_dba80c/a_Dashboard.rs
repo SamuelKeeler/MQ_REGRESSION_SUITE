@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.dropdown-menu.account-dropdown > li > a</value>
+         <value>li > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a06e0a1b-9cb3-433a-a984-a1b3469d8838</webElementGuid>
+      <webElementGuid>09c04044-147e-4688-8ea2-5e25a04af0e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,42 @@
       <name>href</name>
       <type>Main</type>
       <value>/dashboard/#dashboard</value>
-      <webElementGuid>fabc2526-c525-4341-b168-a46ece87b3a4</webElementGuid>
+      <webElementGuid>bc0d5444-34f0-4bab-b01b-9519a76f9b8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard</value>
+      <webElementGuid>02dea1ec-edb8-44b1-851c-064739814977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/nav[@class=&quot;navbar fixed&quot;]/div[@class=&quot;header-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;user-menu-section-wrapper&quot;]/div[@class=&quot;user-menu-section&quot;]/div[@class=&quot;buy-dropdown-wrapper&quot;]/div[@class=&quot;buy-dropdown-wrapper-inside&quot;]/div[@class=&quot;login-wrap&quot;]/div[@class=&quot;dropdown user-dropdown open&quot;]/ul[@class=&quot;dropdown-menu account-dropdown&quot;]/li[1]/a[1]</value>
+      <webElementGuid>c13d37f1-cc0e-46b0-bfbb-5138ed765836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a06e0a1b-9cb3-433a-a984-a1b3469d8838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/#dashboard</value>
+      <webElementGuid>fabc2526-c525-4341-b168-a46ece87b3a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -342,7 +374,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='header']/nav/div/div/div[2]/div/div[3]/div/div[2]/div[2]/ul/li/a</value>
-      <webElementGuid>51e9bc6e-4ff4-4c00-b265-c64ccc98a584</webElementGuid>
+      <webElementGuid>d802c929-a894-4274-a875-09eb05dee036</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -350,7 +382,71 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Dashboard')]</value>
-      <webElementGuid>e933b57d-7ad7-417c-a066-052a70144cfc</webElementGuid>
+      <webElementGuid>b0ef5788-90af-45ff-a27f-531fbfbf1d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[2]/following::a[3]</value>
+      <webElementGuid>e54013d8-e1f4-4338-b959-775b5c20715b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[1]/following::a[4]</value>
+      <webElementGuid>08ce6fd5-2037-420c-94e7-0e4cf8cff56e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/preceding::a[1]</value>
+      <webElementGuid>b6874414-454e-4826-b346-3a7e2c2ae809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::a[2]</value>
+      <webElementGuid>7c966639-cc16-431d-93cd-30cbfcde2892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>c2d32640-cd00-4a91-ac59-177297528ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/dashboard/#dashboard')]</value>
+      <webElementGuid>944177b2-42fb-4da9-9c22-dbcfc075cb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>959104d6-15b6-48b7-bcef-3af0c38914a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dashboard/#dashboard' and (text() = 'Dashboard' or . = 'Dashboard')]</value>
+      <webElementGuid>20ff23fb-71f5-437c-9cee-a752e731cd9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -371,49 +467,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/preceding::a[1]</value>
-      <webElementGuid>a61731f5-8ce5-4374-9640-e6856544324c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/preceding::a[2]</value>
-      <webElementGuid>27df42c4-c289-4a7b-8469-1d57100edcb3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
-      <webElementGuid>8174333e-1459-4c0c-8d7b-b386828fa961</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, '/dashboard/#dashboard')]</value>
-      <webElementGuid>7699e26a-9a11-4bb9-9246-8dd88d497c4e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/ul/li/a</value>
       <webElementGuid>cccca53e-e3dd-4389-8540-88308e42d2a9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '/dashboard/#dashboard' and (text() = 'Dashboard' or . = 'Dashboard')]</value>
-      <webElementGuid>6dc1f371-7456-4b13-9b8e-b26885c7a4d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

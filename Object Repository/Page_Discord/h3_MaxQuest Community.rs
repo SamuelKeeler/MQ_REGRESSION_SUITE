@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_MaxQuest Community</name>
+   <tag></tag>
+   <elementGuidId>194bf11d-a8ea-4728-968b-2ae785ec6ca7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/div/form/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.heading-xl-medium-_XBxHT.defaultColor-HXu-5n.title-3FQ39e.title-10kb1R</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>880a14ad-1208-4de4-8e46-0577dedc7d18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading-xl-medium-_XBxHT defaultColor-HXu-5n title-3FQ39e title-10kb1R</value>
+      <webElementGuid>c1e720a3-afbc-4fb3-80b5-4a069f33d1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text-variant</name>
+      <type>Main</type>
+      <value>heading-xl/medium</value>
+      <webElementGuid>bc9ef8b6-ac4b-482f-b83a-fc81bad6184c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MaxQuest Community</value>
+      <webElementGuid>92ccaa98-7841-460f-acce-c87b051534b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-mount&quot;)/div[@class=&quot;appDevToolsWrapper-1QxdQf&quot;]/div[@class=&quot;notDevTools-1zkgfK&quot;]/div[@class=&quot;app-3xd6d0&quot;]/div[@class=&quot;characterBackground-1BPOOJ&quot;]/div[@class=&quot;wrapper-1f5byN&quot;]/div[1]/div[1]/form[@class=&quot;authBox-1HR6Ha theme-dark&quot;]/div[@class=&quot;centeringWrapper-dGnJPQ&quot;]/div[@class=&quot;container-2xOgW-&quot;]/h3[@class=&quot;heading-xl-medium-_XBxHT defaultColor-HXu-5n title-3FQ39e title-10kb1R&quot;]</value>
+      <webElementGuid>51d86d17-89fc-412f-879d-d90df0c60678</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-mount']/div[2]/div/div/div/div/div/div/form/div/div/h3</value>
+      <webElementGuid>bda48d8b-2ef6-47f4-93e4-1d9e02023c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='力Rob invited you to join'])[1]/following::h3[1]</value>
+      <webElementGuid>eed60800-c5ae-48c6-bb7a-2f2d35e99bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::h3[1]</value>
+      <webElementGuid>da32018d-6a5e-483b-97b4-45be764430d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MaxQuest Community']/parent::*</value>
+      <webElementGuid>bc5ea72a-1601-45c4-a135-5178f3d192d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>70cfc794-e989-4e11-b4ea-c4000f25f7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'MaxQuest Community' or . = 'MaxQuest Community')]</value>
+      <webElementGuid>7e559e61-68d7-4497-9512-9dae5d05dd55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

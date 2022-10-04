@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_ANTI-MONEY LAUNDERING</name>
+   <tag></tag>
+   <elementGuidId>dacaf5b2-2d5a-4cb9-80d2-165b5814ecc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-8c78de3e']/h1/span/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1 > span > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>fe9021fa-43bc-4353-a952-00562b404253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANTI-MONEY LAUNDERING</value>
+      <webElementGuid>d91789ba-3113-4c73-aee2-aa8c5f134e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-8c78de3e&quot;)/h1[1]/span[1]/b[1]</value>
+      <webElementGuid>892407d9-c1f7-4ece-8ae4-c917628db9b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-8c78de3e']/h1/span/b</value>
+      <webElementGuid>6071b8dc-3b99-4cfd-a60b-56f1087b1d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aml Policy'])[1]/following::b[1]</value>
+      <webElementGuid>1efeb0aa-55d5-4feb-98c0-6f285db84328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/following::b[1]</value>
+      <webElementGuid>d8758450-36ea-4aee-bbb7-8b6254a43f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&amp; ANTI TERRORISM FINANCING PROCEDURES'])[1]/preceding::b[1]</value>
+      <webElementGuid>45a0e728-5d98-4918-8805-efea9195206b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ANTI-MONEY LAUNDERING']/parent::*</value>
+      <webElementGuid>bf235081-9488-4249-b02d-8dfc2fe8392a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span/b</value>
+      <webElementGuid>03d8827d-552f-4526-9857-ca551afb42d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'ANTI-MONEY LAUNDERING' or . = 'ANTI-MONEY LAUNDERING')]</value>
+      <webElementGuid>1c900dde-22e0-4105-b274-fd92f1360929</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_Game Max Quest. Version 1.0.4. Date 30.09.2022. FPS 137_app-screen</name>
+   <tag></tag>
+   <elementGuidId>f1718827-fec2-46ca-984d-0f070f6bb45b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/canvas</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.app-layout-layer.app-layer-preloader > canvas.app-screen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>01880910-0b3c-405d-9c03-ab8190520a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-screen</value>
+      <webElementGuid>007a03d8-4221-4cf1-bcfd-b52878c2b164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1920</value>
+      <webElementGuid>de80588e-eaa8-4261-acf3-6a06b3cacc05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1130</value>
+      <webElementGuid>f273bf5f-090a-47cb-9223-7379556b84b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app-layout&quot;]/div[@class=&quot;app-layout-layer app-layer-preloader&quot;]/canvas[@class=&quot;app-screen&quot;]</value>
+      <webElementGuid>a2610bfa-1b94-4a74-80fa-cb7e9d42c710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Fastfire  MaxQuest/iframe_The game has been stopped_gameFrame (1)</value>
+      <webElementGuid>6a749cf4-5b8a-4159-91d4-09fda0996bbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/canvas</value>
+      <webElementGuid>023b176a-a3ce-4089-b1db-ac0c78e0470e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Join us on Discord and follow us on socia_5edda7_1</name>
+   <tag></tag>
+   <elementGuidId>62f7c237-4cff-42e7-88d8-e6168cc0f4b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-858ccc2b']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#el-858ccc2b > div.vce-features--icon.vce-icon > a.vce-icon-container.fab.fa-bitcoin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1971cf61-f342-4cf9-8565-d71241a1c988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-icon-container fab fa-bitcoin</value>
+      <webElementGuid>f70da756-c699-4640-a191-f424f7d97919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.youtube.com/channel/UCKVoVkSu2sQ3nsKL48-i3Mg/featured</value>
+      <webElementGuid>5208c276-5b1f-4dae-a355-89ce858ba686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>8f072190-b297-47af-a2aa-907fb0a79150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>26106604-d300-45bb-b723-d7f8b3dd371c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-858ccc2b&quot;)/div[@class=&quot;vce-features--icon vce-icon&quot;]/a[@class=&quot;vce-icon-container fab fa-bitcoin&quot;]</value>
+      <webElementGuid>ebdd9f3b-790d-45a2-9b6c-7bde7efdb3aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-858ccc2b']/div/a</value>
+      <webElementGuid>da2be5bf-67f2-456a-9ce3-c497a9186d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.youtube.com/channel/UCKVoVkSu2sQ3nsKL48-i3Mg/featured')]</value>
+      <webElementGuid>9767966d-0c34-4427-afd1-f55cdb74f721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/a</value>
+      <webElementGuid>cd66a022-6b62-4ec0-9be5-0eaf850a75a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.youtube.com/channel/UCKVoVkSu2sQ3nsKL48-i3Mg/featured']</value>
+      <webElementGuid>d9ba68e1-68e8-44c4-95cf-5c19aa490d48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

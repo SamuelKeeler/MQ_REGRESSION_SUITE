@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See All</name>
+   <tag></tag>
+   <elementGuidId>3ab5b7c3-805f-4cc1-a404-0bee0123cf08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='el-c848e3c8']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.vce-button.vce-button--style-basic.vce-button--style-basic--border-round.vce-button--style-basic--size-large.vce-button--style-basic--color-b-206-149-46--fff</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1a09c459-d07a-4f8b-bb8b-a03c915972ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff</value>
+      <webElementGuid>3db54daa-821b-49b4-93e4-296554bd7dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/faq/</value>
+      <webElementGuid>1e00d8d4-7e95-408a-be5c-90fd88aed011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-c848e3c8</value>
+      <webElementGuid>674b243d-268f-4205-a655-c54dd843beff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See All</value>
+      <webElementGuid>3389605d-f701-4b56-b32d-4787418a7846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-c848e3c8&quot;)/a[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff&quot;]</value>
+      <webElementGuid>f2880000-83cd-4954-a7d1-4aaf6912c48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5d270c93-c61c-4b28-a7bd-2e643c14d76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff</value>
+      <webElementGuid>9cc698f0-0c51-4048-ba09-88f0f8c4a20b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/faq/</value>
+      <webElementGuid>45fae9e9-3501-4528-a89e-fa60b9a3e77c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-vce-do-apply</name>
+      <type>Main</type>
+      <value>padding border background  el-c848e3c8</value>
+      <webElementGuid>0931f8dd-8142-4776-871a-889d5b1ded2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See All</value>
+      <webElementGuid>18fdac0c-7d2c-4d64-9601-6f3ae5d8a7c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-c848e3c8&quot;)/a[@class=&quot;vce-button vce-button--style-basic vce-button--style-basic--border-round vce-button--style-basic--size-large vce-button--style-basic--color-b-206-149-46--fff&quot;]</value>
+      <webElementGuid>b6a39618-7877-40e6-ad06-5309380ad65f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='el-c848e3c8']/a</value>
+      <webElementGuid>d3ea9198-bb0e-47b4-82bd-2ee27e24ae3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'See All')]</value>
+      <webElementGuid>fec765d6-de6e-4d32-8bb8-4fd3a4326a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What are Max Coins?'])[1]/following::a[1]</value>
+      <webElementGuid>939cdd2d-e1b0-4c5c-a6a7-a4aed8a68568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is MaxQuest?'])[1]/following::a[2]</value>
+      <webElementGuid>98b98380-71a0-4c02-99c4-336c9f07b90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Center'])[2]/preceding::a[1]</value>
+      <webElementGuid>afca3665-c8a3-4d38-9637-ff0a89e83b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::a[2]</value>
+      <webElementGuid>7e99bcdb-fa6e-42f6-bd21-c0e32edb7e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='See All']/parent::*</value>
+      <webElementGuid>94a2b281-d78b-4e38-8d78-8089c0d1e24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/faq/')]</value>
+      <webElementGuid>06ebef26-6c17-48cb-b092-b98be24d57f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>8248946a-5bde-4491-8f82-64ac86b2f9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/faq/' and (text() = 'See All' or . = 'See All')]</value>
+      <webElementGuid>94196472-4a35-4348-95d3-919a4e388679</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

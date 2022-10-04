@@ -7,15 +7,87 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='el-65aaaf0b']/p/a</value>
+         <value>//div[@id='el-4a301cf8']/p/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.button.white.login-btn</value>
+         <value>a.button.white</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb147490-6e75-491e-b432-d2e2576ae545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button white</value>
+      <webElementGuid>20860e7e-01ab-40f2-bd87-7540f9a5d085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/casino</value>
+      <webElementGuid>286581fa-8441-48e4-a01b-4166a8b9d90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Games</value>
+      <webElementGuid>c66184ee-59f2-4371-b253-e7d969a45632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-4a301cf8&quot;)/p[@class=&quot;button-center-mobile&quot;]/a[@class=&quot;button white&quot;]</value>
+      <webElementGuid>f5b9a565-929b-4d06-8bfc-3b2811436103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3493f4d-2d91-4642-a673-ce424814b56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button white login-btn</value>
+      <webElementGuid>1cc569a5-d0dc-4ef2-9746-3bf81855fc32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Games</value>
+      <webElementGuid>d7bca7ab-c8f4-47ac-994d-3c40a64480bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-65aaaf0b&quot;)/p[@class=&quot;button-center-mobile&quot;]/a[@class=&quot;button white login-btn&quot;]</value>
+      <webElementGuid>d28457a2-d9fc-44e4-a672-4a2a11ae2064</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +105,7 @@
       <webElementGuid>7743dcdb-9739-479b-9929-ab1f40d729e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -53,8 +125,88 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='el-4a301cf8']/p/a</value>
+      <webElementGuid>d3c7dd5a-324a-41aa-9711-b1af96186f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'All Games')]</value>
+      <webElementGuid>d4cd9708-6911-4935-85d5-e9e27e123d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[24]/following::a[1]</value>
+      <webElementGuid>8bfe15d7-5af6-4be6-aa49-fded54612e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[23]/following::a[2]</value>
+      <webElementGuid>9c6d19a0-19b4-49b0-99fd-2b2fbcbef52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Games'])[2]/preceding::a[1]</value>
+      <webElementGuid>5b090017-f725-433f-afe6-20f25e4a3969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Center'])[1]/preceding::a[2]</value>
+      <webElementGuid>ddf2440b-322e-46a7-a848-9628a6b3e365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Games']/parent::*</value>
+      <webElementGuid>f8c9f846-4163-46dd-8250-0bb54b404025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/casino')])[2]</value>
+      <webElementGuid>e36a2a9e-da51-4521-9452-8d4df336881a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/p/a</value>
+      <webElementGuid>8a82b930-e274-4402-8634-7ad65d5d10ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/casino' and (text() = 'All Games' or . = 'All Games')]</value>
+      <webElementGuid>bfac4f7c-bbc4-4ef5-9b8b-5e7ab72eddbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='el-65aaaf0b']/p/a</value>
-      <webElementGuid>0e4a5566-97c9-4ccc-ac18-0be2fb496f14</webElementGuid>
+      <webElementGuid>50668123-7dfa-4827-b5e4-456ebd349907</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +214,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'All Games')])[2]</value>
-      <webElementGuid>f5453080-3cc1-41fb-bc98-e068a2f044cc</webElementGuid>
+      <webElementGuid>35458aea-b875-45c8-8271-2cf41d092018</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All Games'])[1]/following::a[1]</value>
-      <webElementGuid>68a60125-d8c6-4754-97cf-b250cad1a1bd</webElementGuid>
+      <webElementGuid>26587620-bd90-4bd0-a35e-63496a5a4814</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[24]/following::a[2]</value>
-      <webElementGuid>deb489e0-4fd9-4de2-a6a3-88bbebad6108</webElementGuid>
+      <webElementGuid>d8573c50-6a47-48b5-95d9-ea9ab451a388</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Help Center'])[1]/preceding::a[1]</value>
-      <webElementGuid>9a6a86d1-dde4-4511-a0d1-804904087f66</webElementGuid>
+      <webElementGuid>806a8d63-9f7a-48db-adc1-8f104200ce48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::a[2]</value>
-      <webElementGuid>862d51f6-6bd8-4725-94a8-4671896849ad</webElementGuid>
+      <webElementGuid>701bbf05-d8ff-4fe8-987a-4c7738c4341f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +254,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/p/a</value>
-      <webElementGuid>44679b7a-b579-4c15-b9a2-226a932dad48</webElementGuid>
+      <webElementGuid>fc528e9d-85c7-4764-ba34-fe170a7bb5d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +262,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'All Games' or . = 'All Games')]</value>
-      <webElementGuid>8ef2c1db-7fc9-4d52-8839-a04ad1e691ea</webElementGuid>
+      <webElementGuid>46ba94ef-f747-48b9-bafa-1141733a0149</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

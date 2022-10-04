@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Play to win crypto</name>
+   <tag></tag>
+   <elementGuidId>91e77ff6-3ad5-4287-913c-f3f9ccd30cd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-e5d9642f']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#el-e5d9642f > h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>678656cc-6a72-4302-a7ce-438936dd2b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Play to win crypto</value>
+      <webElementGuid>170cfe51-067b-4273-a272-418f7365daed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-e5d9642f&quot;)/h1[1]</value>
+      <webElementGuid>0d69da34-0ff4-4a2b-8a83-24ca7130ed40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e9a69a93-9ca9-48ce-aeeb-b023c25e640a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Play to win crypto</value>
+      <webElementGuid>1ec4282c-84fd-42de-b10b-8af61cdb6f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-e5d9642f&quot;)/h1[1]</value>
+      <webElementGuid>29889420-a179-4a6d-9732-790553cf70c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-e5d9642f']/h1</value>
+      <webElementGuid>720ba1d2-01ba-4b0c-8883-78ec9708b3e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[1]/following::h1[1]</value>
+      <webElementGuid>937395e0-c929-4f37-b9e7-654c14da39df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Player VS player Arena'])[1]/following::h1[1]</value>
+      <webElementGuid>6999b788-8e4a-4ea0-a8b9-3d7c39631557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Convert your winnings into your favorite cryptocurrencies'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9933686d-4635-4cb7-b020-0629b30f11c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crypto Wallet'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8cde29cc-b31c-4da2-91f1-d9631be5fc8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Play to win crypto']/parent::*</value>
+      <webElementGuid>fa64c479-098d-4286-9665-cea925a5b256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/h1</value>
+      <webElementGuid>f70fc397-e35f-47b2-b623-7d6810eace35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Play to win crypto' or . = 'Play to win crypto')]</value>
+      <webElementGuid>26517c4a-4c11-479b-9531-b5aeb507374f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

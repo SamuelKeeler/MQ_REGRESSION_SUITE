@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fastfire is the single player mode for_ec58c0</name>
+   <tag></tag>
+   <elementGuidId>ca8718f1-b7b5-4724-b354-877b960bb92b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-1935633c272bca5a2']/div/p/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collapse-1935633c272bca5a2 > div.panel-body > p > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c894d94-48d9-4127-a812-66fab5909353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sheets-value</name>
+      <type>Main</type>
+      <value>{&quot;1&quot;:2,&quot;2&quot;:&quot;Fastfire is the single player mode for all Max Quest games. Once the game starts, it will run for as long as it takes to reach the target or until your Coins run out. Your prize is proportionate to the amount of points you score. There's no waiting time with Fastfire, just start playing!&quot;}</value>
+      <webElementGuid>e3416bb8-59ac-4fc5-b558-fea8bb0cc29b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sheets-userformat</name>
+      <type>Main</type>
+      <value>{&quot;2&quot;:7043,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;10&quot;:2,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Arial&quot;}</value>
+      <webElementGuid>b0c02373-01a4-45f8-b48b-7022586b33e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fastfire is the single player mode for all MaxQuest worlds. Once the game starts, it will run for as long as it takes to reach the target or until your coins run out. Your prize is proportionate to the amount of points you score. There's no waiting time with Fastfire, just start playing!</value>
+      <webElementGuid>e3cb0480-3ecd-4522-83ca-70a70aa11cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-1935633c272bca5a2&quot;)/div[@class=&quot;panel-body&quot;]/p[1]/span[1]</value>
+      <webElementGuid>96067c01-474a-405a-a2ba-91d3f0e7feaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-1935633c272bca5a2']/div/p/span</value>
+      <webElementGuid>305f105b-4f2a-4dbf-9d7d-ff39353678ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is Fastfire?'])[1]/following::span[1]</value>
+      <webElementGuid>0964780e-79c5-4bd5-9901-560ca0116b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fastfire'])[2]/following::span[1]</value>
+      <webElementGuid>c2906c90-a3bd-4585-b40f-de20e7a8b135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I get Special Weapons in Fastfire?'])[1]/preceding::span[1]</value>
+      <webElementGuid>83d6670e-0b68-4ad3-8684-afffc7fd4d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I play Dragonstone Fastfire?'])[1]/preceding::span[1]</value>
+      <webElementGuid>476583b9-d962-4e25-a4f3-31b83fae6430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/div[2]/div/p/span</value>
+      <webElementGuid>b2b42696-1bee-45e3-b9ab-e08573e56c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;Fastfire is the single player mode for all MaxQuest worlds. Once the game starts, it will run for as long as it takes to reach the target or until your coins run out. Your prize is proportionate to the amount of points you score. There&quot; , &quot;'&quot; , &quot;s no waiting time with Fastfire, just start playing!&quot;) or . = concat(&quot;Fastfire is the single player mode for all MaxQuest worlds. Once the game starts, it will run for as long as it takes to reach the target or until your coins run out. Your prize is proportionate to the amount of points you score. There&quot; , &quot;'&quot; , &quot;s no waiting time with Fastfire, just start playing!&quot;))]</value>
+      <webElementGuid>e7592a16-f7a7-4d10-8a03-985c4c512f1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

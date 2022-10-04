@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Awaiting to connect_siqc_eletype sqico-timer</name>
+   <tag></tag>
+   <elementGuidId>86e64c8a-08d4-435c-b9bb-3bacaf0e2084</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='conv6de4586e9da63ef9ac3d2731d6aea8bd4fe2948f17b6646f2c514edb280b4a5ca6c5a663249eaea9']/div[3]/span/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em.siqc_eletype.sqico-timer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>752825ec-4643-448a-8512-f3113b360755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>siqc_eletype sqico-timer</value>
+      <webElementGuid>4af35d70-457c-4748-9ee8-7eb811fa5152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;conv6de4586e9da63ef9ac3d2731d6aea8bd4fe2948f17b6646f2c514edb280b4a5ca6c5a663249eaea9&quot;)/div[@class=&quot;siqc_duration&quot;]/span[1]/em[@class=&quot;siqc_eletype sqico-timer&quot;]</value>
+      <webElementGuid>e36a2d26-209f-439c-981b-ed5ec9e8fa0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_The 1st Player vs Player Crypto Action_dba80c/iframe_concat(id(, , siqiframe, , ))_siqiframe</value>
+      <webElementGuid>05070883-bf04-4aff-9d65-59dce5eb47b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='conv6de4586e9da63ef9ac3d2731d6aea8bd4fe2948f17b6646f2c514edb280b4a5ca6c5a663249eaea9']/div[3]/span/em</value>
+      <webElementGuid>88a10303-6bf2-4a3b-b519-8b5d6822641e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/em</value>
+      <webElementGuid>660963e3-dfaf-495c-b095-e842fbc52df7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The MaxQuest Squad is ragtag band of boun_6c9e2a</name>
+   <tag></tag>
+   <elementGuidId>6ce553ba-b08d-406a-bc72-dd941ba82ae6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse-1922633c272bc73e7']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collapse-1922633c272bc73e7 > div.panel-body > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>eb4795c6-ae4c-4d1c-b792-d718d689395d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The MaxQuest Squad is ragtag band of bounty hunters, seeking fortune and thrills. You can learn more about them here. You're free to choose any hero when you register for an account, and they'll become your avatar. All heroes are equal, and the one you choose will have no bearing on your power and winning-ability.</value>
+      <webElementGuid>ce5c1051-471c-4a41-bd05-bf104db1f21d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-1922633c272bc73e7&quot;)/div[@class=&quot;panel-body&quot;]/p[1]</value>
+      <webElementGuid>15f0c24c-928f-42e3-87c4-14fd97f0634d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse-1922633c272bc73e7']/div/p</value>
+      <webElementGuid>abc67e48-7cb1-41fd-8ad3-b5725fda98b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who are the Heroes?'])[1]/following::p[1]</value>
+      <webElementGuid>7fc12b3b-7c09-46f0-bae8-12aca42258c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gameplay'])[1]/following::p[1]</value>
+      <webElementGuid>3abff882-0042-414e-a3ce-daa1c4afe2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Who are the Legendary Bosses?'])[1]/preceding::p[1]</value>
+      <webElementGuid>787bb294-a96c-45ef-b9c2-5a71609d184b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The MaxQuest Squad is ragtag band of bounty hunters, seeking fortune and thrills. You can learn more about them']/parent::*</value>
+      <webElementGuid>c88f99eb-d749-48e1-9345-1b83119dc068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/p</value>
+      <webElementGuid>6e522c5f-47ac-4e04-ac3b-4330929def9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;The MaxQuest Squad is ragtag band of bounty hunters, seeking fortune and thrills. You can learn more about them here. You&quot; , &quot;'&quot; , &quot;re free to choose any hero when you register for an account, and they&quot; , &quot;'&quot; , &quot;ll become your avatar. All heroes are equal, and the one you choose will have no bearing on your power and winning-ability.&quot;) or . = concat(&quot;The MaxQuest Squad is ragtag band of bounty hunters, seeking fortune and thrills. You can learn more about them here. You&quot; , &quot;'&quot; , &quot;re free to choose any hero when you register for an account, and they&quot; , &quot;'&quot; , &quot;ll become your avatar. All heroes are equal, and the one you choose will have no bearing on your power and winning-ability.&quot;))]</value>
+      <webElementGuid>5f7b2f33-4e47-4217-b790-a2709b3bfca0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

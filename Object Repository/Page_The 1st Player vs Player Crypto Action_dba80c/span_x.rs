@@ -22,6 +22,390 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>c78579b6-11e6-4c5b-b6f1-e75c08d940dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0ceb291f-ab0a-4256-8f57-13c134ec5731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>2ca31cd2-506f-41b9-b853-f51a1664f86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>7579c3eb-477d-4b3e-b00c-280c65bf0c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>11e0effd-0952-410b-a1c8-90789f2c7bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>63a173e6-a394-4731-89db-1fdd33d745d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>34d55459-6b2a-47fe-a8c2-9acc67005fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLogin&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>abd6a272-1431-4927-95fe-631726c3600d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ea66e92-0764-423b-bc55-8373b584089d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>34fb1d1c-a525-4960-8b18-7b065c5523f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>8c692a99-cc4f-4c2f-be71-96228c1b2f6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>3c72baf0-95aa-4a47-9096-b0be6f45ced2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad79a632-5d43-458d-8737-0dbc42706c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3d64b082-1f68-430d-9fb2-c74829bd730c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>142340f8-6665-4c50-8700-fa3cc44ebf4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>51c0aaae-8d0b-46e2-94d4-42d46bfc3095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca9eb76d-43b5-49c8-bb9a-42c9687b6223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b67ee414-2ec7-4fc1-90fc-3fb4bc0494ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>78a615fb-ecbf-4e84-b2be-6d5619dfbe35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLogin&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>66ecb928-ca05-4ff9-a39d-3d85328f5796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>afb106cb-9392-4c7e-a64a-97249e878c0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fe9e3792-bf7d-4d7f-92bd-503352a5f39b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>be177428-55a5-4cf6-b2cc-bb97e1bdb7ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>4f4d8a04-6940-4267-a666-137352f98b82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c42ec3af-c8c9-4b05-8587-980577612497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c75a3a46-6ca0-4cf9-87da-9d1626b52b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>2db85e6b-3550-4ed5-b2e3-2ed027dc7bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>d3413298-f9c8-4048-9351-a5c7154ca5e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46009f6b-6e04-4485-82f8-14d92872faf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>430d8d63-d0d8-4d16-a78f-861b860b5f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>fe825837-bcc0-4ce9-89ae-92fc01ee5b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegisterSuccess&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>58a03503-984b-4dbc-993c-08761f2dfefd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>566525d1-c068-4608-ba86-eb55a2dd2a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c20d1121-f6b1-4ee5-b480-1142eda9a562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>007dcabb-7ad5-4e8c-8dd1-c003438a75e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalForgotPasswordSuccess&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>c72dd005-4d12-4579-8d49-0fc944eaa520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>629ac2bd-3cdc-4769-82a2-3059f838e747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>75a7cd4d-a18f-4d21-a149-90fa33734d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>78e8bdef-9405-42c6-a6ef-1f42bab15fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>e9f76b11-30c4-47f4-9aec-f6fe28b5d3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>046b33f8-87b2-43aa-984b-b404ed608adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b19ff3cd-f48e-4836-8b65-3fb73bb6dc5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>c54a5c9e-b7e1-4713-aca0-676e439386a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLogin&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>2d12dbb9-5e77-4203-a826-31697ffa81ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9fc11b75-1dcc-4403-8c76-b92ea5611419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bc1cf90f-0420-4cf7-925f-4957e60a29b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>8c40f1f8-a846-4565-ad11-2e9d37708727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalRegister&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>b5314182-ded8-4847-9c70-3730771a0ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>2df23229-99d6-4e94-b44d-0962895b946a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +417,7 @@
       <webElementGuid>f3a61ffe-f9fb-4b25-937e-979a8b7d6771</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -214,7 +598,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalRegister']/div/div/div/button/span</value>
-      <webElementGuid>b833ba62-526d-42e0-88fe-12c9be2587f5</webElementGuid>
+      <webElementGuid>09c168ae-d000-478c-9ced-cd732ed42db4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,7 +606,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Account'])[1]/following::span[1]</value>
-      <webElementGuid>54d07b7f-3744-4d60-9f91-869f76ab1ea7</webElementGuid>
+      <webElementGuid>b854ce53-a304-47a0-b50f-57a5169fd95c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,15 +614,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start your journey'])[1]/preceding::span[1]</value>
-      <webElementGuid>02e673c1-3218-4cbe-8d5f-55248437ecc5</webElementGuid>
+      <webElementGuid>e3af5461-1da2-4b29-bc91-235e5fd4cc2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='It looks like this Email address is already registered at MaxQuest.'])[1]/preceding::span[1]</value>
-      <webElementGuid>91ab1a04-3faf-420f-aac0-a3b2b7ce8e1e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email already exists'])[1]/preceding::span[1]</value>
+      <webElementGuid>7ec05e98-52a3-4182-904d-5afe5761ec8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -246,7 +630,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/button/span</value>
-      <webElementGuid>d10770c1-6fab-4b2a-bf40-edac6b4c0201</webElementGuid>
+      <webElementGuid>53bf2254-a371-4617-aa1a-eb91fa55aa73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -254,7 +638,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'x' or . = 'x')]</value>
-      <webElementGuid>ec68d51f-fcae-4aa2-9fff-b785e38a9170</webElementGuid>
+      <webElementGuid>53798374-3543-4d22-bfea-b3f2e0c72de3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -262,7 +646,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalLogin']/div/div/div/button/span</value>
-      <webElementGuid>c6cb1413-feb2-4a96-8d6e-a0ba9d348060</webElementGuid>
+      <webElementGuid>e2c6d6e3-a10c-4c97-a407-90087f5647ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -270,7 +654,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[1]/following::span[1]</value>
-      <webElementGuid>e5045682-869b-4534-8b92-8d641525ef95</webElementGuid>
+      <webElementGuid>41f06adc-498f-47ca-8224-46a1f5ebc3fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -278,15 +662,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Refer Friends'])[1]/following::span[1]</value>
-      <webElementGuid>905f9139-a841-425b-9b35-70493d39f5eb</webElementGuid>
+      <webElementGuid>54234683-a76e-4638-8ca5-d67a33293310</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome back!'])[1]/preceding::span[1]</value>
-      <webElementGuid>1e31c535-44d5-412e-a19a-333f87845abb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please LOG IN again'])[1]/preceding::span[1]</value>
+      <webElementGuid>1fb0f931-37f2-4c31-bc8f-18e813952dce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -294,7 +678,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The username or password was incorrect. Please try again.'])[1]/preceding::span[1]</value>
-      <webElementGuid>047caec5-60f8-4bbb-b4cc-f49d4d0746f0</webElementGuid>
+      <webElementGuid>d9d6441b-f549-4bd0-a2a3-82c29d9cc98f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -302,7 +686,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='x']/parent::*</value>
-      <webElementGuid>062b4575-8af7-41f1-aa27-6319e22188e8</webElementGuid>
+      <webElementGuid>4d1b7264-3f0d-4035-bc20-e936ae859b6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -310,7 +694,23 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/button/span</value>
-      <webElementGuid>6806b6f2-d324-49b7-a214-3825bad1f3f1</webElementGuid>
+      <webElementGuid>445025ea-0f48-4879-bfb6-744b1aa865e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='It looks like this Email address is already registered at MaxQuest.'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf15da55-1565-498c-ab68-1b2249caff87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome back!'])[1]/preceding::span[1]</value>
+      <webElementGuid>fc94d5f6-bd0a-48a5-b1a3-27106ac99c43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -318,7 +718,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email is not valid.'])[1]/preceding::span[1]</value>
-      <webElementGuid>192b65a4-f2c3-4f30-b713-0bae60863557</webElementGuid>
+      <webElementGuid>aa5b4a79-19c8-4143-b5eb-e2ef62a89dfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -326,7 +726,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalRegisterSuccess']/div/div/div/button/span</value>
-      <webElementGuid>4e2d5013-3d10-4f01-9fa9-1fb52875ab9c</webElementGuid>
+      <webElementGuid>8efd2776-fdce-4e49-b7f3-09053ad5223b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -334,7 +734,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::span[1]</value>
-      <webElementGuid>afa58752-99cc-40e9-8b17-aa4aaa61355f</webElementGuid>
+      <webElementGuid>15a49549-7b22-4851-8da0-290a32f1bf74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -342,7 +742,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passwords not matching.'])[1]/following::span[2]</value>
-      <webElementGuid>e9a56f5c-56d4-4d3a-b301-e2d70ec55ab6</webElementGuid>
+      <webElementGuid>c789339c-436b-4511-807b-e9ae014222fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -350,7 +750,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start your journey'])[2]/preceding::span[1]</value>
-      <webElementGuid>70dfb466-ad27-42b9-a9cb-9f1a9f0a6080</webElementGuid>
+      <webElementGuid>d29b87d4-834a-4d8e-b3f8-a9168afa13ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -358,7 +758,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[2]/preceding::span[2]</value>
-      <webElementGuid>3060baed-9923-468f-b05f-54ad167f4dea</webElementGuid>
+      <webElementGuid>b813b096-b660-4b69-95d6-072d2fe10774</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -366,7 +766,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/div/button/span</value>
-      <webElementGuid>b2dc0e96-e1e3-4aaf-966d-6cdc9e2f5ad1</webElementGuid>
+      <webElementGuid>c97dc080-fc40-4331-90a8-7f46e6a680db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -374,7 +774,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalForgotPasswordSuccess']/div/div/div/button/span</value>
-      <webElementGuid>e37c11b6-ab0b-48c7-8349-99a89f21caa3</webElementGuid>
+      <webElementGuid>c253148d-ab8c-40e9-ad97-73dc04766b57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -382,7 +782,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Passwords not matching.'])[1]/following::span[1]</value>
-      <webElementGuid>fd99bb8e-ecbc-401f-9af0-a31a3032ead6</webElementGuid>
+      <webElementGuid>90f3235f-fdb6-4efd-8a9e-ef1ec5c06288</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -390,7 +790,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password is not valid.'])[3]/following::span[2]</value>
-      <webElementGuid>98a06b5b-c2a7-4ca1-b24f-6e838d8dd2bf</webElementGuid>
+      <webElementGuid>18f808ea-e4d2-4f78-b6b9-30fe4a221fa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -398,7 +798,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/preceding::span[1]</value>
-      <webElementGuid>45461f0d-e21b-4490-bd7f-5074d221bd0c</webElementGuid>
+      <webElementGuid>3d414c53-60b8-42e9-a88a-2234e7218d07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -406,7 +806,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Start your journey'])[2]/preceding::span[2]</value>
-      <webElementGuid>9e47a02a-2e7c-4756-a4ea-f373a0333787</webElementGuid>
+      <webElementGuid>dabe1228-e13c-4543-b65a-64a38dfdef4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -414,6 +814,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/div/button/span</value>
-      <webElementGuid>8097ecd4-a9e9-4559-be96-7b238e9681fd</webElementGuid>
+      <webElementGuid>95a3a048-aa2a-45b0-9b8d-4b4ece9f9a67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

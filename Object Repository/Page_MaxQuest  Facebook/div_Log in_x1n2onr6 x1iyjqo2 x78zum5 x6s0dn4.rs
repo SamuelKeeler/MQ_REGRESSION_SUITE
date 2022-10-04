@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Log in_x1n2onr6 x1iyjqo2 x78zum5 x6s0dn4</name>
+   <tag></tag>
+   <elementGuidId>473b9f55-c31d-4c44-a769-b875aaa49c3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_Uj']/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x1n2onr6.x1iyjqo2.x78zum5.x6s0dn4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c53dc476-0924-4b8f-b04d-2db19b27e247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1n2onr6 x1iyjqo2 x78zum5 x6s0dn4</value>
+      <webElementGuid>c0b3d264-f616-471d-8b5f-f0065fada401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Uj&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[2]/div[@class=&quot;x78zum5 x1qughib xh8yej3 xds687c xixxii4 x17qophe x13vifvy xzkaem6&quot;]/div[@class=&quot;x1n2onr6 x1iyjqo2 x78zum5 x6s0dn4&quot;]</value>
+      <webElementGuid>76138537-f3b2-451c-8719-331a84040e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>016d22bb-6e0a-4f43-8ed0-ad0ee161ad75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1n2onr6 x1iyjqo2 x78zum5 x6s0dn4</value>
+      <webElementGuid>2005027e-26ee-4edd-9982-db5790fe6802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Uj&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[2]/div[@class=&quot;x78zum5 x1qughib xh8yej3 xds687c xixxii4 x17qophe x13vifvy xzkaem6&quot;]/div[@class=&quot;x1n2onr6 x1iyjqo2 x78zum5 x6s0dn4&quot;]</value>
+      <webElementGuid>86ffa2f3-7645-4034-ae6c-0892b0a24fb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Uj']/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>e6a29830-719c-47b4-9ae1-0d3060efbccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::div[6]</value>
+      <webElementGuid>7342c6bc-39cc-47ea-944a-99f7886c6187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/preceding::div[12]</value>
+      <webElementGuid>1bf2fd6c-dca5-4666-94fa-6f1535e072b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>ed4d69a8-e30e-4abd-bd20-726a444eef44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

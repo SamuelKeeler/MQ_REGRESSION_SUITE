@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Crypto_fab fa-facebook-f</name>
+   <tag></tag>
+   <elementGuidId>85fbad62-bc41-4bdc-8cec-323ff82bf395</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer']/div/div/div/div[2]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fab.fa-facebook-f</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15b69181-c59e-4c6c-8e49-536efc9b7766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-facebook-f</value>
+      <webElementGuid>2874abb9-5881-4d80-b310-62e1f5f04ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-left-block&quot;]/div[@class=&quot;footer-socials&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;fab fa-facebook-f&quot;]</value>
+      <webElementGuid>0b4be4b9-2662-4046-8e39-b45c4f6a2815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1e9808f-3204-4e02-8f54-d1d3226d9f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-facebook-f</value>
+      <webElementGuid>41aaa728-7df4-48e4-87e1-e73996b8c295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-left-block&quot;]/div[@class=&quot;footer-socials&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;fab fa-facebook-f&quot;]</value>
+      <webElementGuid>e80dd8af-f1bd-4eb2-9fb0-f2ddd9c5ba68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3e30c2f-ddcc-4b6c-9549-94a1274b4f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-facebook-f</value>
+      <webElementGuid>0cf7cce8-cfb5-4f0f-b48a-6c1c4f269cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-left-block&quot;]/div[@class=&quot;footer-socials&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;fab fa-facebook-f&quot;]</value>
+      <webElementGuid>1a79c10e-1aac-49e3-8851-bb3fe0083660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a52628c1-0da5-4b0b-bac6-827f65004809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-facebook-f</value>
+      <webElementGuid>0eff0954-ee4f-497a-b959-8e73df8725ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-left-block&quot;]/div[@class=&quot;footer-socials&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;fab fa-facebook-f&quot;]</value>
+      <webElementGuid>f25db7f4-df47-408e-b796-959313943078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0437e722-fead-48ec-b24c-0614c0ea6f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-facebook-f</value>
+      <webElementGuid>505afcd9-4064-4287-84ec-8b0ee367be96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;footer-bottom&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-left-block&quot;]/div[@class=&quot;footer-socials&quot;]/ul[1]/li[1]/a[1]/span[@class=&quot;fab fa-facebook-f&quot;]</value>
+      <webElementGuid>83d57e91-d439-4a31-9e4a-dfdec14503c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/div/div/div[2]/ul/li/a/span</value>
+      <webElementGuid>afd4f5d1-9a89-473a-8f22-4a698f377ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/span</value>
+      <webElementGuid>a2a317e0-f3ca-4133-98f2-912842272706</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='el-a36eb605']/h1</value>
+         <value>//div[@id='el-4fd4de9e']/h1</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#el-a36eb605 > h1</value>
+         <value>#el-4fd4de9e > h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>abeb231e-5fc6-40c7-bacd-4009342642f6</webElementGuid>
+      <webElementGuid>e5dea092-95b6-4faf-803b-9da64dfd7190</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Max rewards</value>
+      <webElementGuid>7e8fd03e-a5e1-428d-8dd4-59e7895d72b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-4fd4de9e&quot;)/h1[1]</value>
+      <webElementGuid>c7a42436-8734-4393-863e-3d9dfcb13e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6e1e3f38-44d1-4baf-9417-3c321c95234a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Max rewards</value>
+      <webElementGuid>ebdb78b9-dfd7-431f-a518-8b2acf85c92d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-4fd4de9e&quot;)/h1[1]</value>
+      <webElementGuid>9d1b44b1-d8d6-49cd-a5e7-13a17a4a353a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>abeb231e-5fc6-40c7-bacd-4009342642f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -42,6 +90,46 @@
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-4fd4de9e']/h1</value>
+      <webElementGuid>1b39eaad-bc5f-4a0d-a8b1-8c7eda083981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[4]/following::h1[1]</value>
+      <webElementGuid>47a73bed-18ac-4b73-8b29-042860aafcd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore our giveaways, discounts, and exclusive offers to load up on coins!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>469dd2ed-be38-42ff-bdb7-8ce757ead904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/h1</value>
+      <webElementGuid>8b5804c9-d284-428f-b03c-2c25193c52bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Max rewards' or . = 'Max rewards')]</value>
+      <webElementGuid>2c8c9b66-3260-4b07-8c08-cd895780a296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_HOW TO PLAY_app-screen</name>
+   <tag></tag>
+   <elementGuidId>18ced800-860d-4f5d-a501-4943f714274b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//canvas</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>canvas.app-screen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>88599b07-b6bd-4dfc-9430-b0210b4e9546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-screen</value>
+      <webElementGuid>117326db-95ad-4e68-aa2f-95a3c5ae47e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1920</value>
+      <webElementGuid>3dc1cee1-eeba-437e-9c6e-d1d738d5cf55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1080</value>
+      <webElementGuid>c5e0572a-7f59-4206-b6d5-76e254243d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app-layout&quot;]/div[@class=&quot;app-layout-layer app-layer-screens&quot;]/canvas[@class=&quot;app-screen&quot;]</value>
+      <webElementGuid>5a5cefc0-45c7-43d3-8131-30073b7977fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Fastfire  MaxQuest/iframe_The game has been stopped_gameFrame</value>
+      <webElementGuid>4b15006c-799a-4a61-997d-a9dcc49b6fcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>f4b6d1bc-c890-4a4c-a5bf-7fe7bea46454</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

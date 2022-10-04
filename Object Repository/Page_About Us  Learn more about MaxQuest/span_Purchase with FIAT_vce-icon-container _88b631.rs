@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Purchase with FIAT_vce-icon-container _88b631</name>
+   <tag></tag>
+   <elementGuidId>edbbe4e9-5622-4353-b655-2b8bcb59fcff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-1366de21']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.vce-icon-container.vcv-ui-icon-entypo.vcv-ui-icon-entypo-controller-play</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6931e0ff-39e6-4570-b50b-11bb9d5370db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-icon-container vcv-ui-icon-entypo vcv-ui-icon-entypo-controller-play</value>
+      <webElementGuid>c293aa44-2401-46ba-9a53-c676bd2c1b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-1366de21&quot;)/div[@class=&quot;vce-features--icon vce-icon&quot;]/span[@class=&quot;vce-icon-container vcv-ui-icon-entypo vcv-ui-icon-entypo-controller-play&quot;]</value>
+      <webElementGuid>cb618366-98a5-4eb2-abe1-87932d3b1473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-1366de21']/div/span</value>
+      <webElementGuid>9119956e-b541-4505-94b5-415271ef1c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>25dac303-9231-4adb-9660-035920311567</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

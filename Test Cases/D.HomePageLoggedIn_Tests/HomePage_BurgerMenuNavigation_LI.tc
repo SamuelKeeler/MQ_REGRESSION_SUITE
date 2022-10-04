@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Logged in Version</description>
+   <name>HomePage_BurgerMenuNavigation_LI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a894d754-b201-488a-b7e5-1b6db96c0770</testCaseGuid>
+</TestCaseEntity>

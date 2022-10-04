@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Purchase with FIAT_vce-video-popup-clos_1b84c4</name>
+   <tag></tag>
+   <elementGuidId>60ceb595-1341-49c0-8b5c-3efa7d779651</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-6fea8f7c']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vce-video-popup-close-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d94d49b-48b7-41c1-870b-3404abb65f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-video-popup-close-button</value>
+      <webElementGuid>d29758aa-c408-4236-988a-b8af3a965eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-6fea8f7c&quot;)/div[@class=&quot;vce-video-popup-wrapper vce-video-popup-wrapper-fullscreen&quot;]/div[@class=&quot;vce-video-popup-close-button&quot;]</value>
+      <webElementGuid>b4564558-2d21-411e-bd7d-3509e6d04370</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-6fea8f7c']/div/div</value>
+      <webElementGuid>0c3f916c-0b22-4dd5-b26d-de8996b66291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>c90386a5-1bdd-47c3-9369-23a27c6167a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

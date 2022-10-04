@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Player VS player Arena</name>
+   <tag></tag>
+   <elementGuidId>1237e241-9cc0-4953-9a0a-db8cfed55eac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-ae4b10d9']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#el-ae4b10d9 > h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>ebe6fc2e-3935-4369-8627-0b18ac3e03ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Player VS player Arena</value>
+      <webElementGuid>9c2325fe-2098-4a9a-a763-bfcb94fa65c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-ae4b10d9&quot;)/h1[1]</value>
+      <webElementGuid>f6548473-0657-4b8e-a041-6bc166c8cead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>6a932f43-f0a8-4333-8ea6-cee470a86d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Player VS player Arena</value>
+      <webElementGuid>2521c8c6-3bb3-4197-8264-89bf73f0655e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-ae4b10d9&quot;)/h1[1]</value>
+      <webElementGuid>385205e9-9683-4bc7-b9cf-b8136f4b17e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-ae4b10d9']/h1</value>
+      <webElementGuid>b302c214-a311-4727-81a9-4c68ecad2ea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='epic crypto prizes'])[2]/following::h1[1]</value>
+      <webElementGuid>4bb13b4f-fdf1-435b-9cc8-2923384fb634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Now'])[1]/preceding::h1[1]</value>
+      <webElementGuid>3898c12e-e373-4e3d-95cb-ac5e70a8c3a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play to win crypto'])[1]/preceding::h1[1]</value>
+      <webElementGuid>4e1d2991-1873-4631-b036-3a1c916fae0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Player VS player Arena']/parent::*</value>
+      <webElementGuid>b08c3560-3cd1-4eaa-9e9d-b1d0f9f39802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h1</value>
+      <webElementGuid>d161c44b-f9df-4ef8-852d-5d729a630931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Player VS player Arena' or . = 'Player VS player Arena')]</value>
+      <webElementGuid>74796ee0-e18d-4543-9329-68ccb86798cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

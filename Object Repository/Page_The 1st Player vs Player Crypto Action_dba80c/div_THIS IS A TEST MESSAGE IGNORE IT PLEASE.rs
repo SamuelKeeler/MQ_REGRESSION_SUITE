@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_THIS IS A TEST MESSAGE IGNORE IT PLEASE</name>
+   <tag></tag>
+   <elementGuidId>95e98bf6-7b14-4d32-b03c-dc552260f19b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1664895026592']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abbbbe65-3e77-49e5-8665-82066b0418ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>msgbx </value>
+      <webElementGuid>d7268163-5b5a-40be-b2ee-c4036b6038b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>4:50 PM</value>
+      <webElementGuid>90faa606-e088-4f75-aaeb-a69f9f0960dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>proptype</name>
+      <type>Main</type>
+      <value>msgbx</value>
+      <webElementGuid>e8bbe703-7ce0-445d-a728-555bbc238a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> THIS IS A TEST MESSAGE IGNORE IT PLEASE.</value>
+      <webElementGuid>98ac5492-b7d7-4806-93fa-cdc43155b9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1664895026592&quot;)/div[@class=&quot;msgbx&quot;]</value>
+      <webElementGuid>36e77cc1-3234-4aea-949b-dd0dd08b3931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_The 1st Player vs Player Crypto Action_dba80c/iframe_concat(id(, , siqiframe, , ))_siqiframe</value>
+      <webElementGuid>894abcb2-aa87-47de-934f-ff43a7a281fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1664895026592']/div[2]</value>
+      <webElementGuid>c5e342ce-2b4b-455f-9c4f-8cd4402aa16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST_ACCOUNT'])[1]/following::div[1]</value>
+      <webElementGuid>725a97fe-8c7c-42ea-993a-4ed4f748ea7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please wait while we connect you to our support representative.'])[1]/following::div[6]</value>
+      <webElementGuid>a328efed-c15f-4e50-8c90-10ffa3879aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awaiting to connect...'])[1]/preceding::div[6]</value>
+      <webElementGuid>b2ac8fc8-8eb0-4ef0-b008-b7bfdb14bfdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>cf7f7c33-4f50-4d21-8ddf-9d46a170851d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = '4:50 PM' and (text() = ' THIS IS A TEST MESSAGE IGNORE IT PLEASE.' or . = ' THIS IS A TEST MESSAGE IGNORE IT PLEASE.')]</value>
+      <webElementGuid>4822f11d-e659-4632-81df-ff19cbe386f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MaxQuest_</name>
+   <tag></tag>
+   <elementGuidId>348a1130-5f18-49b7-a97d-e86e741fd943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-root']/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.css-1hf3ou5.r-1bwzh9t.r-18u37iz.r-37j5jr.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-qvutc0 > span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b678f0e6-3844-473f-9603-0a19cbe98a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0</value>
+      <webElementGuid>5ab18ef5-3675-4023-a598-f808a58c118a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>@MaxQuest_</value>
+      <webElementGuid>82c43c12-ba2b-4ad7-9cd7-df39e745bc42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-13qz1uu r-417010&quot;]/main[@class=&quot;css-1dbjc4n r-1habvwh r-16xksha r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-16y2uox r-1wbh5a2 r-33ulu8&quot;]/div[@class=&quot;css-1dbjc4n r-aqfbo4 r-16y2uox&quot;]/div[@class=&quot;css-1dbjc4n r-1oszu61 r-1niwhzg r-18u37iz r-16y2uox r-1wtj0ep r-2llsf r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-kemksi r-1kqtdi0 r-1ljd8xs r-13l2t4g r-1phboty r-1jgb5lz r-11wrixw r-61z16t r-1ye8kvj r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-1ye8kvj r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0 r-ymttw5 r-ttdzmv&quot;]/div[@class=&quot;css-1dbjc4n r-6gpygo r-14gqq1x&quot;]/div[@class=&quot;css-1dbjc4n r-1wbh5a2 r-dnmrzs r-1ny4l3l&quot;]/div[@class=&quot;css-1dbjc4n r-1wbh5a2 r-dnmrzs r-1ny4l3l&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-1wbh5a2 r-dnmrzs r-1ny4l3l&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-901oao css-1hf3ou5 r-1bwzh9t r-18u37iz r-37j5jr r-a023e6 r-16dba41 r-rjixqe r-bcqeeo r-qvutc0&quot;]/span[@class=&quot;css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0&quot;]</value>
+      <webElementGuid>a8870647-5111-4c07-bed8-17efabc1195b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/div/div/div[2]/main/div/div/div/div/div/div[3]/div/div/div/div/div[2]/div/div/div[2]/div/div/div/span</value>
+      <webElementGuid>bee3289c-9e78-4489-b015-3e0bf01c80b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MaxQuest'])[2]/following::span[2]</value>
+      <webElementGuid>96314b86-c4a5-4839-821c-72c943b35c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to Follow MaxQuest_'])[1]/following::span[4]</value>
+      <webElementGuid>10f77ffe-afc3-4e39-99a9-990c80b5c661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USA'])[1]/preceding::span[3]</value>
+      <webElementGuid>1fcf2f7f-2532-4b94-bf44-d7ee90767b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='@MaxQuest_']/parent::*</value>
+      <webElementGuid>df4135a5-6ec3-4aa9-83ee-78f23734873c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>78c092b8-9cdb-44f4-98dd-38809e38f28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '@MaxQuest_' or . = '@MaxQuest_')]</value>
+      <webElementGuid>a9b9f717-bfc3-46d3-8eec-0909de13fa7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

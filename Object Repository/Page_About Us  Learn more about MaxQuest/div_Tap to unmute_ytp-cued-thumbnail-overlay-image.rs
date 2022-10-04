@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tap to unmute_ytp-cued-thumbnail-overlay-image</name>
+   <tag></tag>
+   <elementGuidId>be49b3b3-2688-4e63-a76c-2124873ca7d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ytp-cued-thumbnail-overlay-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f587e18-cf3c-4c08-a6d0-2e4d2f39d6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-cued-thumbnail-overlay-image</value>
+      <webElementGuid>3ff44f8d-722d-48af-8ff5-f80ef7ebac02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-cued-thumbnail-overlay&quot;]/div[@class=&quot;ytp-cued-thumbnail-overlay-image&quot;]</value>
+      <webElementGuid>cdf90419-ef95-475f-b649-4238d9be87c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_About Us  Learn more about MaxQuest/iframe_Purchase with FIAT_vce-yt-video-play_01e425</value>
+      <webElementGuid>4c7cce43-7d7f-41c0-b1a9-80b7a2bbcd74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[4]/div</value>
+      <webElementGuid>45fd4225-29e5-4d3b-a1d1-57e4e98f0eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>1c82a2d5-684a-465a-a46e-0252cb338020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_What is MaxQuest</name>
+   <tag></tag>
+   <elementGuidId>e974867e-39d2-4c09-8bea-d4835b9bab3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordiongeneral']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.accordion-toggle.data-faq-481</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8eb628d1-8e97-49ca-be87-0b99faed90af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-toggle data-faq-481</value>
+      <webElementGuid>adb03a62-8fd0-4d8b-b7e5-f780d751a939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>ead92f02-415c-464e-b117-60a2d2d55069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-parent</name>
+      <type>Main</type>
+      <value>#accordiongeneral</value>
+      <webElementGuid>5b97f593-d53b-4f8d-b180-f9fbbace49dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#collapse-481633c272bc5e8b</value>
+      <webElementGuid>3aefe835-0749-47cc-8880-db157887f578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> What is MaxQuest?  </value>
+      <webElementGuid>9823c492-876f-418c-8059-7949b328ccf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordiongeneral&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-heading&quot;]/a[@class=&quot;accordion-toggle data-faq-481&quot;]</value>
+      <webElementGuid>e7ac954f-8077-4d71-b9f8-adb3e2daa7c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordiongeneral']/div/div/a</value>
+      <webElementGuid>b9fdbc1a-67cd-46c1-96ce-39953438fe5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'What is MaxQuest?')]</value>
+      <webElementGuid>d7760bcd-fde2-41b7-89ca-2b2ab295d86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/following::a[1]</value>
+      <webElementGuid>b9056376-9e3e-4158-9b5e-2a426e9b9528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[1]/following::a[1]</value>
+      <webElementGuid>815f75a0-1534-490d-aaed-530a730f7329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I play MaxQuest?'])[1]/preceding::a[1]</value>
+      <webElementGuid>25134bcd-940c-4b87-bceb-8a808c4b1681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How are prizes allocated?'])[1]/preceding::a[2]</value>
+      <webElementGuid>2168d071-c30f-4c5a-a1b4-f452485f26f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='What is MaxQuest?']/parent::*</value>
+      <webElementGuid>9e5df143-34c2-4e14-8540-21d4a8581e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#collapse-481633c272bc5e8b')]</value>
+      <webElementGuid>cef4d0bf-d132-4490-ba56-b51497a69460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div/div/a</value>
+      <webElementGuid>8d9c4532-2eab-4c31-82b4-a5ff94eb0ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#collapse-481633c272bc5e8b' and (text() = ' What is MaxQuest?  ' or . = ' What is MaxQuest?  ')]</value>
+      <webElementGuid>5cb368ae-e018-49c3-ab2d-c019417ebcde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
