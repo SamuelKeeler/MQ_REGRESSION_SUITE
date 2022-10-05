@@ -15,21 +15,21 @@
       <guid>1292f396-5bb7-4771-9574-7ba420c21afd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/B.SignIn_Tests/SignUp_AllreadyHaveAccount</testCaseId>
+      <testCaseId>Test Cases/B.SignIn_TestsNEEDSFIXING/SignUp_AllreadyHaveAccount</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>b7f53be7-ecf2-4d6c-b530-9cd66aac92d4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/B.SignIn_Tests/SignUp_Failure</testCaseId>
+      <testCaseId>Test Cases/B.SignIn_TestsNEEDSFIXING/SignUp_Failure</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>08985968-7c05-4893-b22c-fc6a2f2ac2ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/B.SignIn_Tests/SignUp_Succsess</testCaseId>
+      <testCaseId>Test Cases/B.SignIn_TestsNEEDSFIXING/SignUp_Succsess</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

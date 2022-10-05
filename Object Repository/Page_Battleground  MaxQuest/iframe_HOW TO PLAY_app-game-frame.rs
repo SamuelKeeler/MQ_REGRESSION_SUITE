@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe_HOW TO PLAY_app-game-frame</name>
+   <tag></tag>
+   <elementGuidId>6289d7ac-7d94-4ac3-80d7-a7ee8a44bc13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.app-game-frame</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>ce60863d-54cb-492a-aa99-0bc4826273ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-game-frame</value>
+      <webElementGuid>ba49c80b-163b-4820-9bd3-11d0bcb12abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://mqtech-mqb.maxquest.com/html5pc/actiongames/dragonstone/game/?SID=2_6714b5e9daeba77d19ca00000183ab0b_BQ1MAwQZW1xVUw&amp;serverId=2&amp;lang=en&amp;roomId=50011&amp;stake=200000&amp;WEB_SOCKET_URL=wss://gs2-mp-gp3.maxquest.com/websocket/mpgame&amp;ERROR_HANDLING=false&amp;DEBUGSRMSG=false</value>
+      <webElementGuid>6ff9400f-37a2-4b50-ad98-ae80180998d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app-layout&quot;]/div[@class=&quot;app-layout-layer app-layer-games&quot;]/iframe[@class=&quot;app-game-frame&quot;]</value>
+      <webElementGuid>f967c65d-6342-4d02-a2d1-13938ce1670e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Battleground  MaxQuest/iframe__gameUrlFrame</value>
+      <webElementGuid>d030cb52-f582-4454-affe-f0e65c420727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>e6fcbd05-aae0-47db-a76b-b084d152cc01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://mqtech-mqb.maxquest.com/html5pc/actiongames/dragonstone/game/?SID=2_6714b5e9daeba77d19ca00000183ab0b_BQ1MAwQZW1xVUw&amp;serverId=2&amp;lang=en&amp;roomId=50011&amp;stake=200000&amp;WEB_SOCKET_URL=wss://gs2-mp-gp3.maxquest.com/websocket/mpgame&amp;ERROR_HANDLING=false&amp;DEBUGSRMSG=false']</value>
+      <webElementGuid>7917c770-1d9b-4f0e-8515-2e9e8ddd1eb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

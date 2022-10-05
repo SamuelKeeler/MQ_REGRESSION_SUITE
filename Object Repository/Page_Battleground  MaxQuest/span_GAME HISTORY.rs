@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_GAME HISTORY</name>
+   <tag></tag>
+   <elementGuidId>e05ae4f7-3aea-4c6d-9d6d-e1e34b6cc60c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div/div/div[4]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4880be5f-5d1b-4b95-a9ee-04b1d1dd95ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GAME HISTORY</value>
+      <webElementGuid>768fdd6b-b1e0-4727-a325-ade33ea3d680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/div[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>ad4f1056-a110-4b9b-b25e-907cc0f846ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2c429c9-3b59-4a57-94ee-febd0306154c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GAME HISTORY</value>
+      <webElementGuid>11004f18-15cd-4262-937e-871d3c2ba3f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/div[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>7eeb367c-2575-4ffd-b964-2a38c2c25da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b684ce87-529e-4c07-9420-0494eafdaf80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GAME HISTORY</value>
+      <webElementGuid>6998472e-23d8-4cc2-9f65-f3fba2bbacb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/div[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>e2d20b7f-fbb3-4994-abbe-d69918922d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1bc697f4-f026-4c0c-a54c-c29d332b70e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GAME HISTORY</value>
+      <webElementGuid>8992dcd1-83fb-4b43-a78d-ad6a22bca602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/div[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>2ff2e382-325b-4c67-ad9a-bef8ab0823cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div/div/div[4]/div[2]/span</value>
+      <webElementGuid>2b2e12eb-4aac-43ad-92b7-39045a7c6e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOW TO PLAY'])[1]/following::span[1]</value>
+      <webElementGuid>5fb17fe8-6fc7-4cef-85b8-d9ee946f3778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CASINO'])[2]/following::span[2]</value>
+      <webElementGuid>bc990a13-7641-415d-8581-7cc2805776fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BACK TO LOBBY'])[1]/preceding::span[1]</value>
+      <webElementGuid>82ce7537-7ef8-4bf7-bed0-cff0dacc0b72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOW TO PLAY'])[2]/preceding::span[2]</value>
+      <webElementGuid>8404e159-b8d9-4eb2-9dd7-459d5210c268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GAME HISTORY']/parent::*</value>
+      <webElementGuid>0c8f36c8-9fe8-4a35-b3ea-de22d21eff3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/span</value>
+      <webElementGuid>5ffe627f-f5f2-4803-981c-e5e90701990e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'GAME HISTORY' or . = 'GAME HISTORY')]</value>
+      <webElementGuid>30e47bac-c1b0-417d-926b-1a6af108e1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div/div/div[3]/div/span</value>
+      <webElementGuid>485702bd-6919-4b1a-bae5-43fa6aca2f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BACK TO HOME'])[1]/following::span[1]</value>
+      <webElementGuid>148a2335-99ee-41f2-a476-4b63e7f9b848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WINNER'])[1]/preceding::span[1]</value>
+      <webElementGuid>02d4a3e5-c1dc-4bab-9d3a-6073c0c7788d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[3]/div/span</value>
+      <webElementGuid>3aea668b-d603-4e72-94d2-5c2297b646b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,6 +22,91 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>cb746bbb-787a-456e-86d5-0be96c492334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal fade mq-modal in</value>
+      <webElementGuid>018b7aeb-a0ce-469c-8687-c7f33f1b38da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>modalLogin</value>
+      <webElementGuid>685eab07-c80a-4fad-a893-f532fd885a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>40f78fa4-ca8e-4b5f-bbba-a49c0ff348b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>e01806c2-48a1-4aa0-a8af-53f627dc578a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+    
+     
+      x 
+      Welcome back! 
+      
+      
+       
+        
+         
+        
+        
+         
+        The username or password was incorrect. Please try again. 
+       Forgot your password? Click here. 
+        
+        
+       
+      
+       Or
+       
+       Continue with Facebook Continue with Google 
+       
+      
+        Don't have an account? Create Account 
+       
+      
+     
+    
+  </value>
+      <webElementGuid>edfc61e9-1da4-44bf-9354-a2fb401aeb31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLogin&quot;)</value>
+      <webElementGuid>2712ceef-3955-4d12-bf38-4d1bb86fc307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>d25a7f6a-4d62-44cf-ae13-5c24953830e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +118,7 @@
       <webElementGuid>82e4b8c6-5f81-4876-99a4-8501edf65d91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -57,7 +142,7 @@
       <webElementGuid>3f24b933-4e5f-4f64-8dd4-622029dbeda4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -192,7 +277,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='modalLogin']</value>
-      <webElementGuid>c017406d-34e1-4298-839c-c0ed9210a6ab</webElementGuid>
+      <webElementGuid>30025198-5d4f-4b27-b4b2-4c7c8335a5ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -200,7 +285,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[1]/following::div[3]</value>
-      <webElementGuid>0c2b4507-be84-41cb-95ea-9dd7189b53a1</webElementGuid>
+      <webElementGuid>6c6fead1-117b-4d91-b139-2ed385b91ba3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -208,7 +293,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Refer Friends'])[1]/following::div[3]</value>
-      <webElementGuid>e21bc8d3-adb6-44e6-a5cd-5b9deba72a28</webElementGuid>
+      <webElementGuid>61659446-d55c-4f9b-a70f-daa4f39a7eaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -216,7 +301,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]</value>
-      <webElementGuid>507707b2-fd83-41d7-b86c-14c94270ffa9</webElementGuid>
+      <webElementGuid>59c673fe-6702-47e9-a281-636968512213</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -282,6 +367,6 @@
      
     
   &quot;))]</value>
-      <webElementGuid>5c21dd05-e4e2-4aad-b928-a97e62fda26e</webElementGuid>
+      <webElementGuid>6ab71187-33f8-4ce4-8769-eac6bc2c71d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

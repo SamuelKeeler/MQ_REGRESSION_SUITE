@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_WINNER_vce-icon-container vcv-ui-icon-_208485</name>
+   <tag></tag>
+   <elementGuidId>8a147ed2-0e9e-4d4b-a334-1fb6d2563433</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-e789e55a']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.vce-icon-container.vcv-ui-icon-entypo.vcv-ui-icon-entypo-controller-play</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15f1048d-9376-4b3d-b4d5-6c72ba3a2934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-icon-container vcv-ui-icon-entypo vcv-ui-icon-entypo-controller-play</value>
+      <webElementGuid>a4d91d93-7f56-447f-91ef-57ff36c9134e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-e789e55a&quot;)/div[@class=&quot;vce-features--icon vce-icon&quot;]/span[@class=&quot;vce-icon-container vcv-ui-icon-entypo vcv-ui-icon-entypo-controller-play&quot;]</value>
+      <webElementGuid>2b4b3b04-1110-4c5b-b1f6-542049a9a454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-e789e55a']/div/span</value>
+      <webElementGuid>cdbc5247-8493-4751-967c-5147d5b46f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/div/span</value>
+      <webElementGuid>05613fc9-7e87-4fa2-910f-eea14898150a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

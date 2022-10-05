@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_Game Max Quest. Version 1.0.6. Date _6a53ba</name>
+   <tag></tag>
+   <elementGuidId>b9333562-ea97-4888-a95f-b3283fb722b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/canvas</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.app-layout-layer.app-layer-preloader > canvas.app-screen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>998583c4-cc79-4b5f-941e-747fb5109925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-screen</value>
+      <webElementGuid>f2289edf-124b-40a2-a5b2-0ffeb8eac582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1920</value>
+      <webElementGuid>b4e89b2d-4d78-416d-b10c-b576bb3d84fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1130</value>
+      <webElementGuid>3abb1d44-a262-4cb1-997c-117598c0e6ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;app-layout&quot;]/div[@class=&quot;app-layout-layer app-layer-preloader&quot;]/canvas[@class=&quot;app-screen&quot;]</value>
+      <webElementGuid>ca75b8d5-cd58-4a4a-a8ba-4f862b31dc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Battleground  MaxQuest/iframe__gameUrlFrame</value>
+      <webElementGuid>d2a1c119-6eb2-43ea-b2e5-4252a381588a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/canvas</value>
+      <webElementGuid>110a4867-d148-4e0f-a422-7137e4439bb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_COMING SOON_mq-slider-arrow arrow-left _6f3ef8</name>
+   <tag></tag>
+   <elementGuidId>1dc08d93-cfd1-4d0f-b96c-214eedbf74bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mq-slider-arrow.arrow-left.mq-animation.anim-fade-in</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>feb29956-959c-4891-97a7-17e733e926a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mq-slider-arrow arrow-left mq-animation anim-fade-in</value>
+      <webElementGuid>051c531d-42e9-4dbd-8cac-68de631b6489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;mq-slider mq-animation anim-from-center&quot;]/div[@class=&quot;mq-slider-arrow arrow-left mq-animation anim-fade-in&quot;]</value>
+      <webElementGuid>75e7bf37-cb45-4681-afe7-721aa8d57fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a3297da-5238-4663-b0db-31dcde82a078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mq-slider-arrow arrow-left mq-animation anim-fade-in</value>
+      <webElementGuid>f20b6bfc-305f-4b6c-8cf5-1f72ef64570a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;mq-slider mq-animation anim-from-center&quot;]/div[@class=&quot;mq-slider-arrow arrow-left mq-animation anim-fade-in&quot;]</value>
+      <webElementGuid>3f6528cd-d361-4957-a4e5-89f5cfdca7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cece733-e079-42e6-bf29-e82692d399a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mq-slider-arrow arrow-left mq-animation anim-fade-in</value>
+      <webElementGuid>bb3ba6d0-dca4-4a3f-9cf2-a34e96e4869b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;mq-slider mq-animation anim-from-center&quot;]/div[@class=&quot;mq-slider-arrow arrow-left mq-animation anim-fade-in&quot;]</value>
+      <webElementGuid>28b84874-787c-42b6-be9c-9c998c58d1de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div[2]/div[2]</value>
+      <webElementGuid>74830279-108d-4f8e-9fa3-95502cb66c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>7bbbe33c-d403-44c2-8bff-f8b688f49dd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,10 +22,130 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4a4803f5-b3f0-4cd8-9936-f3b48bf0810f</webElementGuid>
+      <webElementGuid>dfdd1e54-5403-417e-8e2a-22c57da51b62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BACK TO LOBBY</value>
+      <webElementGuid>c718b44f-a727-4c9c-b89f-d27a3ecf451f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/a[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>a972da62-25b1-46ba-9a7f-b494118d9e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c82a0847-f6f3-4c64-b9ac-1df82291dc76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BACK TO LOBBY</value>
+      <webElementGuid>4bfb3275-34b3-4e50-b713-2af842962824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/a[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>95f17d30-ced5-44dd-a79c-9f82b6cfec2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32c5912f-1983-4895-8b47-a39ef5091569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BACK TO LOBBY</value>
+      <webElementGuid>bcf7a300-ed78-4175-a1e7-81a90904a07b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/a[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>752b85bd-e9e8-4ecd-923c-d864225afb1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>522b6668-a1f6-41b2-8a41-527177f10560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BACK TO LOBBY</value>
+      <webElementGuid>6ee91030-b4d1-4958-8ac7-f2b52a705668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/a[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>f3d70dc4-2bb4-4df6-959e-ed7852be180f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a007b72c-26c1-4138-9d90-44a88581847b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BACK TO LOBBY</value>
+      <webElementGuid>92f3101b-8eb5-45d2-874a-0a2cb96535f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-cover&quot;]/div[@class=&quot;cover-container&quot;]/div[@class=&quot;overlay-buttons&quot;]/a[@class=&quot;overlay-button mq-animation anim-from-right&quot;]/span[1]</value>
+      <webElementGuid>d4966a8b-fbec-4129-b57d-ffa627faa2f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a4803f5-b3f0-4cd8-9936-f3b48bf0810f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -70,7 +190,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-content']/div[2]/div/div/div[4]/a/span</value>
-      <webElementGuid>ad85c3ce-9d86-40f8-b3ef-528c1e8bf282</webElementGuid>
+      <webElementGuid>c874b59a-ff0f-4c84-b6a4-6e6ac829a0e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +198,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GAME HISTORY'])[1]/following::span[1]</value>
-      <webElementGuid>20632886-cbd6-4037-ae2c-595df96cc115</webElementGuid>
+      <webElementGuid>7a63565c-fd11-4a0d-a8fe-5b219c6881a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +206,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HOW TO PLAY'])[1]/following::span[2]</value>
-      <webElementGuid>d8e776ac-e376-4857-a9d3-df1d0c26ca7f</webElementGuid>
+      <webElementGuid>0d2a0073-0a48-4eb5-9efe-f3d57a3f5227</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +214,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='HOW TO PLAY'])[2]/preceding::span[1]</value>
-      <webElementGuid>2c99f440-d68c-4cb5-9361-9bbde1e4db89</webElementGuid>
+      <webElementGuid>85cd9062-3e92-4253-beba-2d8244e30000</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='GAME HISTORY'])[2]/preceding::span[2]</value>
-      <webElementGuid>e73ca0d7-fa82-4ce8-9cb2-975e01c2341e</webElementGuid>
+      <webElementGuid>c937e88d-b8d5-48ea-a909-e30c82eb65c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='BACK TO LOBBY']/parent::*</value>
-      <webElementGuid>c64e9c5d-70d4-4b15-9f72-2ded826267c7</webElementGuid>
+      <webElementGuid>6342e4ec-9587-4ebc-8ac3-b2e675973789</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +238,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/span</value>
-      <webElementGuid>620b088c-ae6a-400b-9fd6-69a9622fb1c5</webElementGuid>
+      <webElementGuid>a453290f-6b6e-478e-b9f5-a1b7ce4964cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +246,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'BACK TO LOBBY' or . = 'BACK TO LOBBY')]</value>
-      <webElementGuid>7044fb55-7686-46d7-b2bf-0643daf2b3da</webElementGuid>
+      <webElementGuid>17ecb5a8-d060-4357-8ff2-b4835f1860bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

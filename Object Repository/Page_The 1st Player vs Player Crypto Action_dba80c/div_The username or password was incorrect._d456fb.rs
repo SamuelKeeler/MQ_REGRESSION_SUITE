@@ -22,6 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>391b144f-7c9b-4d78-bc79-6d186d2df428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-body</value>
+      <webElementGuid>b735cb83-6a47-4d70-a708-e58a02573377</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+       
+        
+         
+        
+        
+         
+        The username or password was incorrect. Please try again. 
+       Forgot your password? Click here. 
+        
+        
+       
+      
+       Or
+       
+       Continue with Facebook Continue with Google 
+       
+      
+        Don't have an account? Create Account 
+       
+     </value>
+      <webElementGuid>74cfa422-a464-44ad-bd95-1fce77665106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLogin&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]</value>
+      <webElementGuid>a059473f-7084-4493-9ab6-4b7ea792cf5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>26a25f6c-4326-40d4-8831-3dbe53bfcc1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +85,7 @@
       <webElementGuid>a7579805-3436-4075-adcb-3f882117cdde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -178,7 +230,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modalLogin']/div/div/div[2]</value>
-      <webElementGuid>d158baad-3d6a-4dda-98c0-77f708450f9b</webElementGuid>
+      <webElementGuid>becee595-2d5e-44ca-8ba2-92d165d2eb2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -186,7 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome back!'])[1]/following::div[1]</value>
-      <webElementGuid>f83a548b-edc2-466f-9178-ed57b2dd0eb1</webElementGuid>
+      <webElementGuid>d9d932fa-4a65-42e7-96bd-30ca7f535566</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -194,7 +246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[1]/following::div[7]</value>
-      <webElementGuid>83ee4f3a-a330-4b70-9f92-d9e66f2a2410</webElementGuid>
+      <webElementGuid>c3b35404-f981-4412-8f3b-0f7de9736958</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -202,7 +254,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]</value>
-      <webElementGuid>c65e2627-6262-4dca-b9a6-3e779f19db5d</webElementGuid>
+      <webElementGuid>bb56a952-cefc-4ee8-bd23-94b633b81e8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -250,6 +302,6 @@
         Don&quot; , &quot;'&quot; , &quot;t have an account? Create Account 
        
      &quot;))]</value>
-      <webElementGuid>4dc41ad1-7f3a-4f4a-8c0b-4677e582c865</webElementGuid>
+      <webElementGuid>0178848b-07cc-4263-a1db-d71c97ce3b3f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

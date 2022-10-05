@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open private room</name>
+   <tag></tag>
+   <elementGuidId>ee9eb700-4919-482f-bad9-28a1eb44714a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div[2]/div[2]/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.button.green.play-private-room</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>470a34f2-77d9-41b0-a2a6-b6f6c6f4a69c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn button green play-private-room</value>
+      <webElementGuid>73a4601b-211b-40df-9fcd-67cb33f6786f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>542ade03-1416-4f0e-9348-1fe6cf4d0b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open private room</value>
+      <webElementGuid>bf520676-eaa4-4a66-ac82-226c1e292235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;game-rooms mq-animation anim-fade-in&quot;]/div[@class=&quot;room-item mq-animation anim-from-top show&quot;]/div[@class=&quot;room-buttons-overlay&quot;]/a[@class=&quot;btn button green play-private-room&quot;]</value>
+      <webElementGuid>d54e262c-67c4-40c5-8d88-0d0db5ec2122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eef38d6b-f530-4bd7-b0be-01637ba6ed28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn button green play-private-room</value>
+      <webElementGuid>a87cb9cf-8b56-4444-9616-e31549ac3f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>4bb8ddf5-f082-424a-a105-4b3b990ba9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open private room</value>
+      <webElementGuid>36716f85-f60e-4634-965b-24cd680edb53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;game-rooms mq-animation anim-fade-in&quot;]/div[@class=&quot;room-item mq-animation anim-from-top show&quot;]/div[@class=&quot;room-buttons-overlay&quot;]/a[@class=&quot;btn button green play-private-room&quot;]</value>
+      <webElementGuid>70a8bb52-567c-4eac-ae8a-9af62091c652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47946f55-92f7-4f11-8d45-9c230ee28abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn button green play-private-room</value>
+      <webElementGuid>be1600ca-fbe4-4444-82c5-5d264af6b69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>72c0160b-f73b-4f0f-b07a-dcf299cc9c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open private room</value>
+      <webElementGuid>cd930367-3988-40ee-b0b4-389730956f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;game-rooms mq-animation anim-fade-in&quot;]/div[@class=&quot;room-item mq-animation anim-from-top show&quot;]/div[@class=&quot;room-buttons-overlay&quot;]/a[@class=&quot;btn button green play-private-room&quot;]</value>
+      <webElementGuid>0a23eb2b-d925-4b37-97c9-0b65ed449782</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div[2]/div[2]/div/div[2]/a[2]</value>
+      <webElementGuid>88fc46fc-1aff-43ed-a71c-6de2c79e59e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Open private room')]</value>
+      <webElementGuid>72bb44ba-82d6-49ad-b991-8ca89f577379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play now'])[1]/following::a[1]</value>
+      <webElementGuid>8219810f-41f5-4c99-af26-22acb0628e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play now'])[2]/preceding::a[1]</value>
+      <webElementGuid>ccf83d34-b201-462b-b83b-a14891b4ff48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open private room']/parent::*</value>
+      <webElementGuid>20e74594-a2ce-4475-b366-c10601da111b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
+      <webElementGuid>0134e0bc-0290-409a-930b-76c1c6eb676e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>3b0103f1-d1d5-4b25-bc10-7a37cd4fdca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Open private room' or . = 'Open private room')]</value>
+      <webElementGuid>21486cc8-b53e-43a3-886e-334205ded667</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

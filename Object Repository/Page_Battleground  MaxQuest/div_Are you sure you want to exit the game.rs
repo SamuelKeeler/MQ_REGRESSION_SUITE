@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Are you sure you want to exit the game</name>
+   <tag></tag>
+   <elementGuidId>7923a6d4-8c57-4c05-bf0a-e2ad4d1e478f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aff3e477-bafc-4e21-a235-d4cf91cb330a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-text</value>
+      <webElementGuid>b81781c9-9477-40cd-80f5-7dce3057bf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Are you sure you want to exit the game?</value>
+      <webElementGuid>9b4a1921-d7e9-4c2e-92bd-7104a1755522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modalFixed&quot;]/div[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog show&quot;]/div[@class=&quot;modal-text&quot;]</value>
+      <webElementGuid>71ee84e0-8e27-40fc-8964-9616ea1641b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67236ae5-902f-49a0-89b6-fad9c851463f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-text</value>
+      <webElementGuid>02e69567-2ab1-416f-9121-b95a73946551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Are you sure you want to exit the game?</value>
+      <webElementGuid>781f7d4a-6b33-4422-a26e-bed4f4ceefca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modalFixed&quot;]/div[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog show&quot;]/div[@class=&quot;modal-text&quot;]</value>
+      <webElementGuid>2f234059-2772-4a5e-ba1f-09df7e08d82c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::div[3]</value>
+      <webElementGuid>53ff4536-4a11-43ce-8fa2-4dc5a3b7cf6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The 3-reel Mini-Slot'])[1]/following::div[7]</value>
+      <webElementGuid>58f2f759-d7bf-4b54-8d95-96e18037fade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[1]/preceding::div[1]</value>
+      <webElementGuid>3b3966f7-6f2d-4848-a600-8d9c7aa4eb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::div[1]</value>
+      <webElementGuid>895183d7-3066-474b-88f2-5ca71a345866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Are you sure you want to exit the game?']/parent::*</value>
+      <webElementGuid>dec24b7c-cd24-42b0-a0ed-b8be78c330ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div</value>
+      <webElementGuid>c0ea2079-76f7-4c26-8d1b-a79ec073e241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Are you sure you want to exit the game?' or . = 'Are you sure you want to exit the game?')]</value>
+      <webElementGuid>fcca0d10-03fc-4913-beea-2becfebe7b7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

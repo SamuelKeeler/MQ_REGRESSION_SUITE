@@ -7,15 +7,47 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='modalRegister']/div/div/div/button/span</value>
+         <value>//div[@id='modalLogin']/div/div/div/button/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#modalRegister > div.modal-dialog.modal-sm > div.modal-content > div.modal-header > button.close > span</value>
+         <value>button.close > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb57ecff-5f10-43c0-bfe9-202e885a809e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a8954274-a8fe-4031-8647-60226197394b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>db7a48ee-13af-47b7-9975-e660dc36f90e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalLogin&quot;)/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@class=&quot;close&quot;]/span[1]</value>
+      <webElementGuid>894c6a67-cf19-479b-a681-c2259975e16b</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>0ceb291f-ab0a-4256-8f57-13c134ec5731</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -597,6 +629,70 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='modalLogin']/div/div/div/button/span</value>
+      <webElementGuid>3ab1d321-acf6-4a12-84d4-5dc5bf86895c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[1]/following::span[1]</value>
+      <webElementGuid>3b262ae4-7f76-4b67-94e4-b9fe95477d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refer Friends'])[1]/following::span[1]</value>
+      <webElementGuid>690c03b3-2a2d-45ef-abd5-3bc975949aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please LOG IN again'])[1]/preceding::span[1]</value>
+      <webElementGuid>2fa4a195-ac84-4db6-af6c-75b005061260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The username or password was incorrect. Please try again.'])[1]/preceding::span[1]</value>
+      <webElementGuid>2c5d173b-1057-4e50-88b9-ecd824993ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='x']/parent::*</value>
+      <webElementGuid>7425ac64-68ae-4d34-9c7c-2de496a83fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/span</value>
+      <webElementGuid>7b8555d3-f4b4-446d-9ac6-82136d3a515f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'x' or . = 'x')]</value>
+      <webElementGuid>52ee557a-ceec-4d86-ab65-99de006e6024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='modalRegister']/div/div/div/button/span</value>
       <webElementGuid>09c168ae-d000-478c-9ced-cd732ed42db4</webElementGuid>
    </webElementXpaths>
@@ -631,70 +727,6 @@
       <type>Main</type>
       <value>//div[3]/div/div/div/button/span</value>
       <webElementGuid>53bf2254-a371-4617-aa1a-eb91fa55aa73</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'x' or . = 'x')]</value>
-      <webElementGuid>53798374-3543-4d22-bfea-b3f2e0c72de3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='modalLogin']/div/div/div/button/span</value>
-      <webElementGuid>e2c6d6e3-a10c-4c97-a407-90087f5647ae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casino'])[1]/following::span[1]</value>
-      <webElementGuid>41f06adc-498f-47ca-8224-46a1f5ebc3fc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refer Friends'])[1]/following::span[1]</value>
-      <webElementGuid>54234683-a76e-4638-8ca5-d67a33293310</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please LOG IN again'])[1]/preceding::span[1]</value>
-      <webElementGuid>1fb0f931-37f2-4c31-bc8f-18e813952dce</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='The username or password was incorrect. Please try again.'])[1]/preceding::span[1]</value>
-      <webElementGuid>d9d6441b-f549-4bd0-a2a3-82c29d9cc98f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='x']/parent::*</value>
-      <webElementGuid>4d1b7264-3f0d-4035-bc20-e936ae859b6b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div/div/button/span</value>
-      <webElementGuid>445025ea-0f48-4879-bfb6-744b1aa865e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

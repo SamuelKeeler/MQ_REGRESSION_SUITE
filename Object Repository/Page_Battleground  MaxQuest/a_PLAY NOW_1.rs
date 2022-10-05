@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PLAY NOW_1</name>
+   <tag></tag>
+   <elementGuidId>360d9571-8001-4e9d-af2f-cb3841f7654c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div[2]/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a8d01cdb-eadb-4468-8005-c58797e8d555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slider-button</value>
+      <webElementGuid>d30b3f6a-22db-4519-b3ed-8698b582c73b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/battleground/mission-amazon</value>
+      <webElementGuid>a9956397-fea2-436d-ba14-1295b2bdfe42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PLAY NOW</value>
+      <webElementGuid>22d62acc-eb60-4144-b3b4-8ea1583ce084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;mq-slider mq-animation anim-from-center&quot;]/div[@class=&quot;mq-slider-wrapper&quot;]/div[@class=&quot;mq-slider-container&quot;]/div[@class=&quot;mq-slider-item enable&quot;]/div[@class=&quot;mq-slider-overlay&quot;]/a[@class=&quot;slider-button&quot;]</value>
+      <webElementGuid>b8a66b99-9aa9-460c-ac68-db9bbf4facdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>eadeac7e-5f35-44be-8d41-6e1d9bf197b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'PLAY NOW')])[2]</value>
+      <webElementGuid>3004ac19-5be3-4e40-bd42-736945067463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLAY NOW'])[1]/following::a[1]</value>
+      <webElementGuid>eb01804f-d475-4c87-a6b4-2495670e3131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GAME HISTORY'])[2]/following::a[2]</value>
+      <webElementGuid>2578f396-a231-40e0-8c98-0167c1b783f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMING SOON'])[1]/preceding::a[1]</value>
+      <webElementGuid>60706760-e053-49d1-8d9b-931a4349307c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMING SOON'])[2]/preceding::a[2]</value>
+      <webElementGuid>4bd0fb92-32a8-41f8-9ca6-f4f2ba4a7f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/battleground/mission-amazon')]</value>
+      <webElementGuid>9329f992-44d9-4a4b-aea1-90ba3415cc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>c4d492d3-1509-4343-a7d4-8e751641169a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/battleground/mission-amazon' and (text() = 'PLAY NOW' or . = 'PLAY NOW')]</value>
+      <webElementGuid>51803a8a-3042-43d8-83fe-b68008ba5797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

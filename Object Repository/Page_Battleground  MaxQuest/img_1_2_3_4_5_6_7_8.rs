@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3_4_5_6_7_8</name>
+   <tag></tag>
+   <elementGuidId>9f60cb5b-d369-4898-890e-c5f93769bf66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='Dragonstone Logo'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.modal-title > img[alt=&quot;Dragonstone Logo&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bc925fdb-d70c-4baa-af1f-cf40b304c703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/new/dragonstone/ds-logo-759x102.png</value>
+      <webElementGuid>a52e81bd-3385-427a-b3b3-dd259c7118cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dragonstone Logo</value>
+      <webElementGuid>a8bced9a-4cc3-4b59-bead-10269cf88909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Dragonstone Logo</value>
+      <webElementGuid>851e7778-aacf-4473-8d15-f322fe0867e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>59f6101a-90a8-4753-8824-7eacba96da58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modalFixed&quot;]/div[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog modal-alert show&quot;]/h3[@class=&quot;modal-title&quot;]/img[2]</value>
+      <webElementGuid>5b06a8f8-361e-4d3e-b4f3-0ef89589fa81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b1ae2b01-2418-4396-b328-8a64af07c4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/new/dragonstone/ds-logo-759x102.png</value>
+      <webElementGuid>0dddd17e-eaa7-4c26-9224-74561e46f60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dragonstone Logo</value>
+      <webElementGuid>00ef7b26-191e-40dd-a064-50d43c4a6eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Dragonstone Logo</value>
+      <webElementGuid>bd05b7d2-af19-483b-8e51-66c3d8851766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>546c37cc-55bb-43ea-9205-f709129f942f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modalFixed&quot;]/div[@class=&quot;modal show&quot;]/div[@class=&quot;modal-dialog modal-alert show&quot;]/h3[@class=&quot;modal-title&quot;]/img[2]</value>
+      <webElementGuid>a9c50405-f90d-4d45-a85f-0572ead82541</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Dragonstone Logo'])[2]</value>
+      <webElementGuid>7dbc9b50-231b-4f98-8dc3-1589e408afbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/img[2]</value>
+      <webElementGuid>39437e8f-2902-440b-b499-597431496d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/new/dragonstone/ds-logo-759x102.png' and @alt = 'Dragonstone Logo' and @title = 'Dragonstone Logo']</value>
+      <webElementGuid>c1d02f80-a5a5-4691-867b-08356f843465</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

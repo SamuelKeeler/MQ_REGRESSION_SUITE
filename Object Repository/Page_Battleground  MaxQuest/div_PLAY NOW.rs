@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PLAY NOW</name>
+   <tag></tag>
+   <elementGuidId>a595b27f-ac76-4d7e-9ff1-cdca4526d4c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c18694f7-bdbd-4a29-a17a-62e9c792bdff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mq-slider-overlay</value>
+      <webElementGuid>1aadc46b-0a1d-4f4f-8626-6257d8bd1fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                PLAY NOW
+              </value>
+      <webElementGuid>1679df94-69c8-4522-908d-849d77c09c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;mq-slider mq-animation anim-from-center&quot;]/div[@class=&quot;mq-slider-wrapper&quot;]/div[@class=&quot;mq-slider-container&quot;]/div[@class=&quot;mq-slider-item enable&quot;]/div[@class=&quot;mq-slider-overlay&quot;]</value>
+      <webElementGuid>3f536f80-631c-4ae7-89b7-9cf650c3d7d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4c8c189-ac1c-48b1-987c-4ecafc9e37cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mq-slider-overlay</value>
+      <webElementGuid>39b7a0cb-dd1b-4f81-a0b4-47e39d133442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                PLAY NOW
+              </value>
+      <webElementGuid>3c17655b-8c2d-44b3-8e1e-67cc71b10440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;mq-slider mq-animation anim-from-center&quot;]/div[@class=&quot;mq-slider-wrapper&quot;]/div[@class=&quot;mq-slider-container&quot;]/div[@class=&quot;mq-slider-item enable&quot;]/div[@class=&quot;mq-slider-overlay&quot;]</value>
+      <webElementGuid>15588e0b-5d84-4846-8387-00cc875bbed3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>5270bc57-6d2d-4ef4-b5f4-e3f1a9243310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLAY NOW'])[1]/following::div[2]</value>
+      <webElementGuid>0018dce8-8191-4296-9c3d-24fe919af3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GAME HISTORY'])[2]/following::div[7]</value>
+      <webElementGuid>8e82a25c-59c5-4536-bbc8-def3ddcbd638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMING SOON'])[1]/preceding::div[1]</value>
+      <webElementGuid>9f0ca8a8-6756-465c-b836-58ad5ac3bb36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>92a9cc84-d03c-4568-9553-ab7e843a6026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                PLAY NOW
+              ' or . = '
+                PLAY NOW
+              ')]</value>
+      <webElementGuid>efe82e07-fe5a-45e4-affa-7e74f5a47e98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

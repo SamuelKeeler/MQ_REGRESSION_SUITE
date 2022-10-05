@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WINNER_vce-features--icon vce-icon</name>
+   <tag></tag>
+   <elementGuidId>547a0f47-7f15-4ee9-b97b-67e964edde9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-e789e55a']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.vce-features--icon.vce-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>97fbd9d3-8987-458d-bba9-66085c928fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-features--icon vce-icon</value>
+      <webElementGuid>62f800e2-3e24-4537-aace-9e719814bfda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-e789e55a&quot;)/div[@class=&quot;vce-features--icon vce-icon&quot;]</value>
+      <webElementGuid>1066fbd1-028a-408a-a1d0-4c198fbb7ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba4955d7-0ee8-42bd-862b-1a30b7c92f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vce-features--icon vce-icon</value>
+      <webElementGuid>34cf2950-2165-4c1d-92bf-b14c16ba65c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-e789e55a&quot;)/div[@class=&quot;vce-features--icon vce-icon&quot;]</value>
+      <webElementGuid>dc6646c0-509b-4040-8704-f4652016d972</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-e789e55a']/div</value>
+      <webElementGuid>33c71c44-7290-4e55-92df-13bb2866f727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WINNER'])[1]/following::div[14]</value>
+      <webElementGuid>eab80a78-d761-4795-8263-c722e495cdba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::div[2]</value>
+      <webElementGuid>101138e3-4575-4490-b5bf-8ff7679b4b0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>1ceb15d2-054b-4987-944c-8ada2c7bac26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

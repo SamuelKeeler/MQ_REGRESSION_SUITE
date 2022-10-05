@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_COMING SOON_mq-slider-arrow arrow-right_d7953d</name>
+   <tag></tag>
+   <elementGuidId>5948fa3b-71a5-4e2f-b724-2ab0efcebeb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/div[2]/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mq-slider-arrow.arrow-right.mq-animation.anim-fade-in</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3fb02a6-af1b-46ba-8378-80dad187dfaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mq-slider-arrow arrow-right mq-animation anim-fade-in</value>
+      <webElementGuid>19e854ec-1c96-4944-ae3e-7d377ff7db4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/div[@class=&quot;page-container&quot;]/div[@class=&quot;mq-slider mq-animation anim-from-center&quot;]/div[@class=&quot;mq-slider-arrow arrow-right mq-animation anim-fade-in&quot;]</value>
+      <webElementGuid>c4393f7a-3a9f-4809-8051-abbf11bc23e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/div[2]/div[2]/div[3]</value>
+      <webElementGuid>9fdc011b-42a0-4592-9fb3-e982c332b5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>a5467c7d-c551-46e6-b5d4-e3498a318ad7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
